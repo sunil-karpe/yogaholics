@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:cloudserviceconfigs="[cloudconfigs/translation/translationcfg/default_translation]"
+        cq:conf=""
+        cq:lastModified="{Date}2021-07-16T19:25:54.239+05:30"
+        cq:lastModifiedBy="admin"
+        cq:lastRolledout="{Date}2021-07-16T19:25:54.242+05:30"
+        cq:lastRolledoutBy="admin"
+        cq:lastTranslationDone="{Date}2021-07-16T17:36:17.418+05:30"
+        cq:lastTranslationUpdate="{Date}2021-07-16T17:29:31.517+05:30"
+        cq:template="/conf/yogaholics/settings/wcm/templates/content-page"
+        cq:translationMethod="MACHINE_TRANSLATION"
+        cq:translationProject="[/content/projects/yogaholics/yogaholics]"
+        cq:translationProviderCloudConfig="/libs/settings/cloudconfigs/translation/msft-translation/msft_trial"
+        cq:translationProviderName="microsoft"
+        cq:translationSourcePath="/content/yogaholics/language-master/en"
+        cq:translationStatus="ARCHIVE"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[cq:LiveRelationship,cq:LiveSync,mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Deutsch"
+        jcr:uuid="cfb69d8f-06b5-4978-ace4-72a36bc713a9"
+        sling:resourceType="yogaholics/components/structure/page">
+        <root
+            cq:lastRolledout="{Date}2021-07-16T19:25:54.235+05:30"
+            cq:lastRolledoutBy="admin"
+            jcr:mixinTypes="[cq:LiveRelationship]"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <responsivegrid
+                cq:lastRolledout="{Date}2021-07-16T19:25:54.241+05:30"
+                cq:lastRolledoutBy="admin"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+        </root>
+        <cq:LiveSyncConfig
+            cq:isDeep="{Boolean}false"
+            cq:master="/content/yogaholics/language-master/de"
+            cq:rolloutConfigs="[/libs/msm/wcm/rolloutconfigs/default]"
+            jcr:primaryType="cq:LiveCopy"/>
+    </jcr:content>
+</jcr:root>
