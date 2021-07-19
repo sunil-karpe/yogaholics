@@ -88,5 +88,6 @@
                     sling:resourceType="yogaholics/components/content/sharing"/>
             </responsivegrid>
         </root>
+        <image/>
     </jcr:content>
 </jcr:root>
