@@ -2,23 +2,19 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-07-19T18:12:04.997+05:30"
+        cq:lastModified="{Date}2021-07-16T17:26:51.243+05:30"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
+        cq:template="/conf/yogaholics/settings/wcm/templates/content-page"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Language-master"
-        jcr:uuid="6d42d532-cdd9-4973-bd44-cbd9e189815d"
+        jcr:title="Language Master"
+        jcr:uuid="25555463-d215-4e89-8156-1b685be385e6"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/foundation/components/responsivegrid">
             <responsivegrid
-                jcr:created="{Date}2021-07-19T17:27:15.060+05:30"
-                jcr:createdBy="admin"
-                jcr:lastModified="{Date}2021-07-19T17:27:28.172+05:30"
-                jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/foundation/components/responsivegrid"/>
         </root>

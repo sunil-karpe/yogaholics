@@ -8,12 +8,10 @@
                 <responsivegrid jcr:primaryType="nt:unstructured">
                     <content-default
                         jcr:description="Policy for editable layout containers"
-                        jcr:lastModified="{Date}2021-07-19T17:26:01.883+05:30"
-                        jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="yogaholics Default"
                         sling:resourceType="wcm/core/components/policy/policy"
-                        components="[/libs/wcm/foundation/components/responsivegrid,group:yogaholics,/apps/yogaholics/components/form/container]"
+                        components="[group:yogaholics,/apps/yogaholics/components/form/container]"
                         policyResourceType="wcm/foundation/components/responsivegrid">
                         <cq:authoring jcr:primaryType="nt:unstructured">
                             <assetToComponentMapping jcr:primaryType="nt:unstructured">
@@ -27,36 +25,9 @@
                             </assetToComponentMapping>
                         </cq:authoring>
                         <jcr:content
-                            cq:lastReplicated="{Date}2021-07-19T17:35:11.098+05:30"
-                            cq:lastReplicatedBy="admin"
-                            cq:lastReplicationAction="Activate"
-                            jcr:mixinTypes="[cq:ReplicationStatus]"
                             jcr:primaryType="nt:unstructured"
                             mergeList="{Boolean}true"/>
                     </content-default>
-                    <policy_171168910144100
-                        jcr:lastModified="{Date}2021-07-19T16:57:09.820+05:30"
-                        jcr:lastModifiedBy="admin"
-                        jcr:primaryType="nt:unstructured"
-                        jcr:title="YogaholicsOnly"
-                        sling:resourceType="wcm/core/components/policy/policy"
-                        components="[group:yogaholics,group:yogaholics Form]">
-                        <jcr:content jcr:primaryType="nt:unstructured"/>
-                    </policy_171168910144100>
-                    <policy_173114304284200
-                        jcr:lastModified="{Date}2021-07-19T17:28:02.689+05:30"
-                        jcr:lastModifiedBy="admin"
-                        jcr:primaryType="nt:unstructured"
-                        jcr:title="YogaholicsOnly"
-                        sling:resourceType="wcm/core/components/policy/policy"
-                        components="[group:yogaholics,group:yogaholics Form]">
-                        <jcr:content
-                            cq:lastReplicated="{Date}2021-07-19T17:35:11.098+05:30"
-                            cq:lastReplicatedBy="admin"
-                            cq:lastReplicationAction="Activate"
-                            jcr:mixinTypes="[cq:ReplicationStatus]"
-                            jcr:primaryType="nt:unstructured"/>
-                    </policy_173114304284200>
                 </responsivegrid>
             </components>
         </foundation>
