@@ -34,6 +34,7 @@ public class HelloWorldModel {
     protected String resourceType;
 
     private String message;
+    private String notify;
 
     @PostConstruct
     protected void init() {
