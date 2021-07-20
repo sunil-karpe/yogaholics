@@ -10,14 +10,15 @@ import org.apache.sling.models.annotations.Model;
 import org.apache.sling.settings.SlingSettingsService;
 
 @Model(adaptables=Resource.class)
-public class TitleText {
-	
+
+public class SubTitle {
+
     @Inject @Named("sling:name") @Default(values="defaultValue")
     protected String name;
-
+    
     @Inject
     private String title;
-
+    
     @PostConstruct
     protected void init() {
         title += "\n";
