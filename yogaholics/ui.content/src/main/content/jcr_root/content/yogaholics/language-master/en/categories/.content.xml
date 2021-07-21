@@ -2,19 +2,23 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-07-16T17:28:10.929+05:30"
+        cq:lastModified="{Date}2021-07-19T18:13:59.791+05:30"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/yogaholics/settings/wcm/templates/content-page"
+        cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Categories"
-        jcr:uuid="f388a6b5-e3f0-45d2-ae9c-1ad9abd415d4"
+        jcr:uuid="3fe75acd-ff11-4d81-b0ef-0e77ac42f102"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/foundation/components/responsivegrid">
             <responsivegrid
+                jcr:created="{Date}2021-07-19T17:27:15.060+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-07-19T17:27:28.172+05:30"
+                jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/foundation/components/responsivegrid"/>
         </root>
