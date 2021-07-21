@@ -2,30 +2,26 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-07-19T18:16:19.191+05:30"
+        cq:lastModified="{Date}2021-07-16T17:36:17.906+05:30"
         cq:lastModifiedBy="translation-job-service"
-        cq:lastTranslationDone="{Date}2021-07-19T18:16:19.191+05:30"
-        cq:lastTranslationUpdate="{Date}2021-07-19T18:15:30.038+05:30"
-        cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
+        cq:lastTranslationDone="{Date}2021-07-16T17:36:17.907+05:30"
+        cq:lastTranslationUpdate="{Date}2021-07-16T17:29:31.681+05:30"
+        cq:template="/conf/yogaholics/settings/wcm/templates/content-page"
         cq:translationMethod="MACHINE_TRANSLATION"
         cq:translationProviderCloudConfig="/libs/settings/cloudconfigs/translation/msft-translation/msft_trial"
         cq:translationProviderName="microsoft"
         cq:translationSourcePath="/content/yogaholics/language-master/en/categories"
-        cq:translationStatus="COMPLETE"
+        cq:translationStatus="ARCHIVE"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Kategorien"
-        jcr:uuid="bbbac767-0471-458d-9993-5cb63cbd06a6"
+        jcr:uuid="0cc43dfd-cd1f-4161-8684-03bc89507323"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/foundation/components/responsivegrid">
             <responsivegrid
-                jcr:created="{Date}2021-07-19T17:27:15.060+05:30"
-                jcr:createdBy="admin"
-                jcr:lastModified="{Date}2021-07-19T17:27:28.172+05:30"
-                jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/foundation/components/responsivegrid"/>
         </root>

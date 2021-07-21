@@ -4,7 +4,7 @@
     <jcr:content
         cq:contextHubPath="/etc/cloudsettings/default/contexthub"
         cq:contextHubSegmentsPath="/etc/segmentation/contexthub"
-        cq:lastModified="{Date}2021-07-19T18:52:17.522+05:30"
+        cq:lastModified="{Date}2021-07-21T21:29:44.341+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/content-page"
         jcr:primaryType="cq:PageContent"
@@ -16,7 +16,23 @@
         <root jcr:primaryType="nt:unstructured">
             <responsivegrid
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <heroimage
+                    jcr:created="{Date}2021-07-21T21:18:36.476+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-21T21:29:44.324+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/heroimage"
+                    buttonLabel="Know More"
+                    buttonLinkTo="https://www.nytimes.com/guides/well/beginner-yoga"
+                    fileName="Yoga_Landing.jpg"
+                    fileReference="/content/dam/Yoga_Landing.jpg"
+                    heading="YOGAHOLICS"
+                    title="It’s time to roll out your yoga mat and discover the combination of physical and mental exercises that for thousands of years have hooked yoga practitioners around the globe. The beauty of yoga is that you don’t have to be a yogi or yogini to reap the benefits. Whether you are young or old, overweight or fit, yoga has the power to calm the mind and strengthen the body. Don’t be intimidated by yoga terminology, fancy yoga studios and complicated poses. Yoga is for everyone.">
+                    <file/>
+                </heroimage>
+            </responsivegrid>
         </root>
     </jcr:content>
 </jcr:root>
