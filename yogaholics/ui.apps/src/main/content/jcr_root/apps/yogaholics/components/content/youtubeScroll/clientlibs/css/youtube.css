@@ -1,0 +1,22 @@
+.youtube {
+    padding: 5px;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.youtube::-webkit-scrollbar {
+    display: none;
+}
+
+.youtube {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.youtube iframe {
+    display: inline-block;
+}
+
+.youtube iframe:hover {
+    background-color: #6FB2EB;
+}

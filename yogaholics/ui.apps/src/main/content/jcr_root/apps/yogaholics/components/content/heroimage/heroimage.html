@@ -1,0 +1,12 @@
+<sly data-sly-use.clientlib="/libs/granite/sightly/templates/clientlib.html" data-sly-call="${clientlib.all @ categories='yogaholics.hero-image'}"/>
+<div class="hero-image" style="background-image: url('${properties.fileReference @ context='styleString'}');">
+  <div class="hero-text">
+    <h1>${properties.heading}</h1>
+    <p>${properties.title || currentPage.title}</p>
+
+    <button>
+	${properties.buttonLabel}
+    </button>
+
+  </div>
+</div>

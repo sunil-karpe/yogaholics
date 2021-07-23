@@ -2,9 +2,11 @@
 <jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="cq:Template">
     <jcr:content
+        cq:lastModified="{Date}2021-07-22T13:34:55.162+05:30"
+        cq:lastModifiedBy="admin"
         cq:templateType="/conf/yogaholics/settings/wcm/template-types/content-page"
         jcr:description="Simple content page for yogaholics"
         jcr:primaryType="cq:PageContent"
         jcr:title="Content Page"
-        status="enabled"/>
+        status="disabled"/>
 </jcr:root>
