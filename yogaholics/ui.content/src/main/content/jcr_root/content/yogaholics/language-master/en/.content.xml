@@ -2,7 +2,7 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-07-23T11:02:54.940+05:30"
+        cq:lastModified="{Date}2021-07-23T15:32:41.562+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
@@ -21,6 +21,20 @@
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/foundation/components/responsivegrid">
+                <heroimage_181167714
+                    jcr:created="{Date}2021-07-23T13:56:57.578+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-23T15:32:41.543+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/heroimage"
+                    buttonLabel="explore"
+                    fileName="yoga1.jpg"
+                    fileReference="/content/dam/yogaholics/yoga1.jpg"
+                    heading="Let's do Yoga "
+                    title="Yoga , Sanskrit for &quot;yoking&quot; or &quot;union&quot;, is a group of physical, mental, and spiritual practices or disciplines that originated in ancient India. Yoga is one of the six orthodox philosophical schools of Hinduism.">
+                    <file/>
+                </heroimage_181167714>
                 <card
                     jcr:created="{Date}2021-07-23T10:53:48.684+05:30"
                     jcr:createdBy="admin"
@@ -35,6 +49,18 @@
                         <item1 jcr:primaryType="nt:unstructured"/>
                     </cards>
                 </card>
+                <heroimage/>
+                <youtubescroll
+                    jcr:created="{Date}2021-07-23T14:08:23.652+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-23T14:12:28.841+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/youtubeScroll"
+                    text="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text2="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text3="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text4="https://www.youtube.com/embed/v7AYKMP6rOE"/>
             </responsivegrid>
         </root>
     </jcr:content>
