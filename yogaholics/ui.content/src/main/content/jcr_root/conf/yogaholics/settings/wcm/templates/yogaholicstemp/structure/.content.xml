@@ -3,7 +3,7 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:deviceGroups="[/etc/mobile/groups/responsive]"
-        cq:lastModified="{Date}2021-07-22T18:34:25.983+05:30"
+        cq:lastModified="{Date}2021-07-23T09:50:30.688+05:30"
         cq:lastModifiedBy="admin"
         cq:lastReplicated="{Date}2021-07-19T17:35:11.098+05:30"
         cq:lastReplicatedBy="admin"
