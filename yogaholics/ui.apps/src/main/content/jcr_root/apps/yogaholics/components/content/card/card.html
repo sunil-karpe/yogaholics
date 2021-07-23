@@ -1,28 +1,30 @@
-<style>
-  
-  
-h2 {
-    display: inline;
-}
-img{
-    float:left;
-}
-  
-  
-</style>
- 
- 
-<h2>Current Issue</h2>
-<div
-    data-sly-use.multiCards="yogaholics.core.models">
-    <div data-sly-list.head="${multiCards.cards.listChildren}">
- 
- 
-  <div style="height:250px;"><img src=${head.path} height=200 width=270 style="padding:4px"/><h2>${head.cardtitle}</h2>
+
+<sly	data-sly-use.multiItems="yogaholics.core.models.Multicard">
+
+</sly>
+
+			<div class="cardcont"><div class="carditem"><img src="/content/dam/yogaholics/yoga1.jpg" height=150px width=100% style="padding:4px"/>
+				<h3>title</h3><p>The goal of the Yogaholics and all classical yoga practice is to bring about a state of
+				calm clarity, balanced energy, and lightness of body and mind.
+					</p></div><div class="carditem">
+				<img src="/content/dam/yogaholics/yoga1.jpg" height=150px width=100% style="padding:4px"/>
+				<h3>title</h3>
+				<p>The goal of the Yogaholics and all classical yoga practice is to bring about a state of
+				calm clarity, balanced energy, and lightness of body and mind.
+					</p></div><div class="carditem"><img src="/content/dam/yogaholics/yoga1.jpg" height=150px width=100% style="padding:4px"/>
+				<h3>title</h3>
+				<p>The goal of the Yogaholics and all classical yoga practice is to bring about a state of
+				calm clarity, balanced energy, and lightness of body and mind.
+					</p>
+
+			</div></div>
+
+<!--/*
+ <div style="height:250px;"><img src=${head.pathbr} height=200 width=270 style="padding:4px"/><h2>${head.product}</h2>
                              <p>${head.desc}</p>
- 
+
                              </div>
-                             <hr>
- 
-   </div>
-</div>
+
+
+
+ */-->

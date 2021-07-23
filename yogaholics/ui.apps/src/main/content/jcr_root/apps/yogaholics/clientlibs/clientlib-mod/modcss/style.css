@@ -21,7 +21,63 @@ nav{
 	width:70vw;
     padding:10px 0;
 }
-nav-link{
+.nav-link{
 
    	font-weight:bolder;
 }
+
+.cardcont{
+
+
+	display:flex;
+
+    flex-wrap:wrap;
+    width:70%;
+       margin:auto;
+    justify-content:flex-start;
+	    	padding:20px 0;
+
+}
+
+.carditem{
+
+
+    	width:200px;
+
+    	margin-top:15px;
+    	margin-left:50px;
+        font-size:12px;
+    	padding:10px;
+		flex-basis:250px;
+    	    border:2px solid #6FB2EB;
+    	border-radius:12px;
+}
+
+.carditem h3{
+ font-size:15px;
+    margin-left:10px;
+
+}
+.carditem p{
+
+       margin-left:10px;
+
+}
+.carditem img{
+
+       border-radius:15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
