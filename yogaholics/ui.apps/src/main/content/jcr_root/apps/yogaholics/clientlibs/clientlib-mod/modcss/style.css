@@ -1,4 +1,8 @@
+.normal-anch{
+	text-decoration:none;
+    color:black;
 
+}
 nav{
 
 	background-color:#6FB2EB;
@@ -19,7 +23,7 @@ nav{
 	display:flex;
 
     flex-wrap:wrap;
-    width:70%;
+    width:100%;
        margin:auto;
     justify-content:flex-start;
 	    	padding:20px 0;
@@ -75,7 +79,65 @@ nav{
 
 }
 
+.alignvertical{
+    display:flex;
+    margin:auto;
+    flex-direction:column;
+     align-items:center;
+  /*  border: 2px solid red;*/
+    width:70%;
+	margin-top:50px;
+	margin-bottom:50px;
+}
 
+
+
+.tutorad-box{
+
+	display:flex;
+    width:85vw;
+    margin:auto;
+    flex-direction:column;
+
+
+  	align-items:center;
+    border-radius:30px 0;
+    padding:30px 0 15px 0;
+
+       /*background-color:#e1e1e1;
+    border:2px solid purple;*/
+
+
+
+}
+.tutorad-item{
+	display:flex;
+
+	 flex-direction:row;
+	width:90%;
+    justify-content:space-around;
+
+    flex-wrap:wrap;
+    margin:0px 0 15px 0;
+    padding:10px 20px;
+    align-items:center;
+    background-color:purple;
+	 border-radius:40px 0;
+      color:white;
+
+
+}
+
+.desc{
+
+	width:70%;
+
+}
+
+.tutorad-item>img{
+	border-radius:50%;
+
+}
 
 
 

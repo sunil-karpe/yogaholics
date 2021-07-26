@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="9060e9da-cc2f-404e-91af-84a85d699080">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="yogaholics/tutor3.jpg"
+        jcr:lastModified="{Date}2021-07-26T12:01:16.287+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2021-07-26T12:01:13.826+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}1.0833333730697632"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}0.7900000214576721"
+            dam:Progressive="no"
+            dam:sha1="c327833344b5a372ecff8e7405d971b778e1a731"
+            dam:size="{Long}50930"
+            dam:TimeCreated="115606+0000"
+            dc:date="{Long}[20210726]"
+            dc:date_xmpArrayType="rdf:Bag"
+            dc:format="image/jpeg"
+            exif:ColorSpace="{Long}1"
+            exif:DateTimeOriginal="{Date}2021-07-26T11:56:06.000+05:30"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:DateCreated="{Date}2021-07-26T11:56:06.000Z"
+            tiff:ImageLength="{Long}325"
+            tiff:ImageWidth="{Long}237"
+            tiff:Orientation="{Long}1"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:XResolution="300/1"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2021-07-26T11:56:06.000+05:30"
+            xmp:CreatorTool="Windows Photo Editor 10.0.10011.16384"
+            xmp:ModifyDate="{Date}2021-07-26T12:00:44.000+05:30"
+            xmpMM:DocumentID="adobe:docid:stock:b9d09bb1-d678-4dc3-972f-7a17014b79aa"
+            xmpMM:InstanceID="xmp.iid:7ba5be6f-45ae-4029-9d0f-b11584178bb4"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

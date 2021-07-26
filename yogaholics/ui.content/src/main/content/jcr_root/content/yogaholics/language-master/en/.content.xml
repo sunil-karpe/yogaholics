@@ -2,7 +2,7 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-07-23T15:32:41.562+05:30"
+        cq:lastModified="{Date}2021-07-26T14:14:04.922+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
@@ -24,11 +24,12 @@
                 <heroimage_181167714
                     jcr:created="{Date}2021-07-23T13:56:57.578+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-23T15:32:41.543+05:30"
+                    jcr:lastModified="{Date}2021-07-26T14:14:04.904+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/heroimage"
                     buttonLabel="explore"
+                    buttonLinkTo="/content/eureka/language-master/en/categories"
                     fileName="yoga1.jpg"
                     fileReference="/content/dam/yogaholics/yoga1.jpg"
                     heading="Let's do Yoga "
@@ -38,22 +39,28 @@
                 <card
                     jcr:created="{Date}2021-07-23T10:53:48.684+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-23T11:02:54.934+05:30"
+                    jcr:lastModified="{Date}2021-07-26T13:39:01.386+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/card">
                     <cards jcr:primaryType="nt:unstructured">
                         <item0
                             jcr:primaryType="nt:unstructured"
-                            pathbr="/content/dam/yogaholics/asset.jpg"/>
-                        <item1 jcr:primaryType="nt:unstructured"/>
+                            cardtitle="Meditation"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            pathbr="/content/dam/yogaholics/yoga2.jpg"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            cardtitle="Heading"
+                            pathbr="/content/dam/yogaholics/yoga2.jpg"/>
+                        <item2 jcr:primaryType="nt:unstructured"/>
                     </cards>
                 </card>
                 <heroimage/>
                 <youtubescroll
                     jcr:created="{Date}2021-07-23T14:08:23.652+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-23T14:12:28.841+05:30"
+                    jcr:lastModified="{Date}2021-07-25T12:20:32.341+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/youtubeScroll"
@@ -61,6 +68,13 @@
                     text2="https://www.youtube.com/embed/v7AYKMP6rOE"
                     text3="https://www.youtube.com/embed/v7AYKMP6rOE"
                     text4="https://www.youtube.com/embed/v7AYKMP6rOE"/>
+                <tutorad
+                    jcr:created="{Date}2021-07-25T12:32:06.259+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-25T12:32:06.259+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/tutorAd"/>
             </responsivegrid>
         </root>
     </jcr:content>

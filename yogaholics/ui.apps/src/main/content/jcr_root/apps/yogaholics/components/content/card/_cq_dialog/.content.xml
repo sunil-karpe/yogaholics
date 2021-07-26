@@ -27,7 +27,7 @@
                                     <items jcr:primaryType="nt:unstructured">
                                         <cardtitle
                                             jcr:primaryType="nt:unstructured"
-                                            sling:resourceType="granite/ui/components/coral/foundation/form/textarea"
+                                            sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
                                             fieldDescription="Name of card"
                                             fieldLabel="Card title"
                                             name="./cardtitle"/>

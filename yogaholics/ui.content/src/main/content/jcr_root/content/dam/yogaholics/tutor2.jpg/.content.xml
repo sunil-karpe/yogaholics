@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:ns1="http://xmp.gettyimages.com/gift/1.0/"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="b707e82e-a20b-40dd-ab54-f2927dade654">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="yogaholics/tutor2.jpg"
+        jcr:lastModified="{Date}2021-07-26T12:04:29.491+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2021-07-26T12:04:26.867+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}1.0800000429153442"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}1.0233333110809326"
+            dam:Progressive="no"
+            dam:sha1="ee79a99526c630fa5930c972e388c3ce94d16293"
+            dam:size="{Long}53763"
+            dam:TimeCreated="115540+0000"
+            dc:creator="[alvarez]"
+            dc:creator_xmpArrayType="rdf:Seq"
+            dc:date="{Long}[20210726]"
+            dc:date_xmpArrayType="rdf:Bag"
+            dc:description="Happy mature woman holding a yoga mat in health club. Fitness female after work out session in gym."
+            dc:format="image/jpeg"
+            exif:ColorSpace="{Long}1"
+            exif:DateTimeOriginal="{Date}2021-07-26T11:55:40.000+05:30"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            ns1:AssetID="{Long}700722040"
+            photoshop:Credit="Getty Images"
+            photoshop:DateCreated="{Date}2021-07-26T11:55:40.000Z"
+            tiff:ImageLength="{Long}324"
+            tiff:ImageWidth="{Long}307"
+            tiff:Orientation="{Long}1"
+            xmp:CreateDate="{Date}2021-07-26T11:55:40.000+05:30"
+            xmp:CreatorTool="Windows Photo Editor 10.0.10011.16384"
+            xmp:ModifyDate="{Date}2021-07-26T12:04:08.000+05:30"
+            xmpRights:WebStatement="https://www.istockphoto.com/legal/license-agreement?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl">
+            <plus:Licensor
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    plus:LicensorURL="https://www.istockphoto.com/photo/license-gm700722040-?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl"
+                    xmpNodeType="xmpStruct"/>
+            </plus:Licensor>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

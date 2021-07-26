@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:ns1="http://xmp.gettyimages.com/gift/1.0/"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="629c86b5-4f1f-484d-a450-0a9b3b9a8559">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="yogaholics/tutor4.jpg"
+        jcr:lastModified="{Date}2021-07-26T12:09:45.541+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2021-07-26T12:09:44.671+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}0.6866666674613953"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}0.5699999928474426"
+            dam:Progressive="no"
+            dam:sha1="a044d4ca6c0fc2cf8dabfe6de1c2bcb335c54108"
+            dam:size="{Long}37006"
+            dam:TimeCreated="120804+0000"
+            dc:creator="[Monoliza21]"
+            dc:creator_xmpArrayType="rdf:Seq"
+            dc:date="{Long}[20210726]"
+            dc:date_xmpArrayType="rdf:Bag"
+            dc:description="Beautiful young brunette woman yoga instructor doing vrikshasana on a mat in a wooden floor standing in the gym with day lighting"
+            dc:format="image/jpeg"
+            exif:ColorSpace="{Long}1"
+            exif:DateTimeOriginal="{Date}2021-07-26T12:08:04.000+05:30"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            ns1:AssetID="{Long}1179814993"
+            photoshop:Credit="Getty Images/iStockphoto"
+            photoshop:DateCreated="{Date}2021-07-26T12:08:04.000Z"
+            tiff:ImageLength="{Long}206"
+            tiff:ImageWidth="{Long}171"
+            tiff:Orientation="{Long}1"
+            xmp:CreateDate="{Date}2021-07-26T12:08:04.000+05:30"
+            xmp:CreatorTool="Windows Photo Editor 10.0.10011.16384"
+            xmp:ModifyDate="{Date}2021-07-26T12:09:15.000+05:30"
+            xmpRights:WebStatement="https://www.istockphoto.com/legal/license-agreement?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl">
+            <plus:Licensor
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    plus:LicensorURL="https://www.istockphoto.com/photo/license-gm1179814993-?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl"
+                    xmpNodeType="xmpStruct"/>
+            </plus:Licensor>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
