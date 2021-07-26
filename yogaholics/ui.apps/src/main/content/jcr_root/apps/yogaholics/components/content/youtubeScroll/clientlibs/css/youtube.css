@@ -2,10 +2,11 @@
     padding: 5px;
     overflow: auto;
     white-space: nowrap;
+    margin:50px 0;
 }
 
 .youtube::-webkit-scrollbar {
-    display: none;
+    width:1px;
 }
 
 .youtube {

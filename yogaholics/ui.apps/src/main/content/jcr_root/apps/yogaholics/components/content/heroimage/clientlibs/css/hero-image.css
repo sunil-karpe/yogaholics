@@ -5,14 +5,23 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+    width:95vw;
+    margin:auto;
+    border-radius:20px;
 }
 
 .hero-text {
   font-family: 'Helvetica', 'Arial', sans-serif;
-  text-align: center;
+  text-align: left;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 40%;
+   font-weight:bolder;
   transform: translate(-50%, -50%);
   color: white;
+    text-shadow:2px 2px 10px blue;
+}
+.hero-box{
+	margin-top:10px;
+
 }

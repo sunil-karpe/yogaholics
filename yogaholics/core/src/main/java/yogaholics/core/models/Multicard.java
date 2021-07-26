@@ -18,7 +18,13 @@ public class Multicard {
  @Optional
  public Resource cards;
  
+ @Inject @Default(values="Title here")
+ public String cardtitle;
  // No need of a post construct as we don't have anything to modify after the
  // model is constructed
+ 
+ public String getCardtitle() {
+     return cardtitle;
+ }
 }
 
