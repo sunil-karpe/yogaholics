@@ -35,6 +35,8 @@ eż��Z����L�6�/v��V���hM��i25�/�����
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:ns1="http://www.day.com/dam/1.0"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
@@ -46,7 +48,7 @@ eż��Z����L�6�/v��V���hM��i25�/�����
    ns1:JpgFromRawStart="382"
    ns1:Fileformat="JPEG"
    ns1:Progressive="yes"
-   ns1:extracted="2021-07-16T16:34:09.982+05:30"
+   ns1:extracted="2021-07-26T15:12:44.550+05:30"
    ns1:Bitsperpixel="24"
    ns1:MIMEtype="image/jpeg"
    ns1:JpgFromRawLength="988"
@@ -55,9 +57,24 @@ eż��Z����L�6�/v��V���hM��i25�/�����
    ns1:Numberofimages="1"
    ns1:ExifOffset="232"
    ns1:Numberoftextualcomments="0"
-   ns1:sha1="94a39eecb6c8d903563623729f90ea969aa91d4c"
-   ns1:size="71150"
+   ns1:sha1="d8b2c6761740b9fdbcc920dad794e6330d8a3c91"
+   ns1:size="122443"
    ns1:ColorSpace="-1"
+   tiff:Compression="6"
+   tiff:ImageLength="51"
+   tiff:YResolution="720000/10000"
+   tiff:Orientation="1"
+   tiff:ResolutionUnit="2"
+   tiff:XResolution="720000/10000"
+   tiff:ImageWidth="940"
+   tiff:SamplesPerPixel="3"
+   tiff:PhotometricInterpretation="2"
+   exif:ColorSpace="65535"
+   exif:ExifVersion="0221"
+   exif:ExifImageWidth="940"
+   exif:PixelYDimension="51"
+   exif:PixelXDimension="940"
+   exif:ExifImageLength="51"
    xmp:CreatorTool="Adobe Photoshop CC (Macintosh)"
    xmp:MetadataDate="2014-05-26T17:53:28.000+02:00"
    xmp:ModifyDate="2014-05-26T17:53:28.000+02:00"
@@ -68,6 +85,13 @@ eż��Z����L�6�/v��V���hM��i25�/�����
    xmpMM:OriginalDocumentID="xmp.did:4576AD9C112068118083FEAE8F0AE3A0"
    xmpMM:InstanceID="xmp.iid:61e45f9c-a0cb-4560-83c5-054bb35d320a"
    photoshop:ColorMode="3">
+   <tiff:BitsPerSample>
+    <rdf:Seq>
+     <rdf:li>8</rdf:li>
+     <rdf:li>8</rdf:li>
+     <rdf:li>8</rdf:li>
+    </rdf:Seq>
+   </tiff:BitsPerSample>
    <xmpMM:DerivedFrom
     stRef:instanceID="xmp.iid:524b6b7f-6449-45a6-b6fd-22994ff6a8fe"
     stRef:documentID="xmp.did:4576AD9C112068118083FEAE8F0AE3A0"/>
@@ -90,13 +114,7 @@ eż��Z����L�6�/v��V���hM��i25�/�����
                                                                                                     
                                                                                                     
                                                                                                     
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                       
+                                                   
 <?xpacket end="w"?>��!Adobed@�����3���	
 	!1	 0"2@A#4567B%&83$FG9	!1A"Qa#q��2$��B3%���R45&	bC�SDr���'7c�Ee6F�		!1"AQ2#aBq�R3$4 �br�CS��c50P��s�T%���Dd@����E�6������p(
 ������>�2
