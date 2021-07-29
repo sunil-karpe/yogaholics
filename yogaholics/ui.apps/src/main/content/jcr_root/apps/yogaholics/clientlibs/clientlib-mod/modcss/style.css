@@ -3,16 +3,26 @@ body{
 }
 
 .cmp-contentfragment__element:first-child{
-	color:orange;
+	color: #EBA86F;
     font-size:30px;
+    font-weight:bolder;
+    text-align: center;
 
 }
+
+.cmp-contentfragment__element.cmp-contentfragment__element--author{
+	font-weight:bolder;
+    text-align: center;
+}
+
+.yogaholics-cf--grey img{
+  max-width: 100%;
+  height: auto;
+}
+
 .cmp-contentfragment__element:last-child{
 
-    font-weight:bolder;
-
 }
-
 
 
 .yogaholics-cf--grey{
@@ -23,12 +33,14 @@ body{
     width:70vw;
     margin:auto;
     border-radius:10px;
-     margin-top:30px;
-        padding-bottom:30px;
-        margin-bottom:20px;
+    margin-top:30px;
+    padding-bottom:30px;
+    margin-bottom:20px;
 
 
 }
+
+
 
 
 

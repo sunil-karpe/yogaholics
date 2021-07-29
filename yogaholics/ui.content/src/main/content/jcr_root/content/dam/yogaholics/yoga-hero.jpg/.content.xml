@@ -9,7 +9,7 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/yoga-hero.jpg"
-        jcr:lastModified="{Date}2021-07-27T16:11:51.586+05:30"
+        jcr:lastModified="{Date}2021-07-29T17:00:21.039+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -24,11 +24,11 @@
             dam:Physicalwidthindpi="{Long}72"
             dam:Physicalwidthininches="{Decimal}10.416666984558105"
             dam:Progressive="yes"
-            dam:sha1="7b552ed32d44772210137699c6fb3fb823a2a5e7"
+            dam:sha1="fef43284a413528143e70d9c9ebee1f7d401d8b0"
             dam:size="{Long}43110"
             dc:format="image/jpeg"
             dc:modified="{Date}2021-07-27T16:11:51.306+05:30"
-            jcr:lastModified="{Date}2021-07-27T16:11:51.306+05:30"
+            jcr:lastModified="{Date}2021-07-29T17:00:20.026+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"

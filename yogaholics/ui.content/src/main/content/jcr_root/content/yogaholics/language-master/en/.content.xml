@@ -9,7 +9,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="English"
-        jcr:uuid="f81a3280-bbd5-4cad-81fe-558e1896659f"
+        jcr:uuid="b422f1f4-ee0a-4db8-9c08-b97e2a7ef0c8"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
@@ -131,4 +131,5 @@
     <home/>
     <categories/>
     <events/>
+    <blogs/>
 </jcr:root>
