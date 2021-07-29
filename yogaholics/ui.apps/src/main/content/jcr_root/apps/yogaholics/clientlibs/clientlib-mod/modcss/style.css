@@ -1,3 +1,38 @@
+body{
+
+}
+
+.cmp-contentfragment__element:first-child{
+	color:orange;
+    font-size:30px;
+
+}
+.cmp-contentfragment__element:last-child{
+
+    font-weight:bolder;
+
+}
+
+
+
+.yogaholics-cf--grey{
+
+	color:#545554;
+  	padding:25px 30px;
+    background-color:#f8f9fa;
+    width:70vw;
+    margin:auto;
+    border-radius:10px;
+     margin-top:30px;
+        padding-bottom:30px;
+        margin-bottom:20px;
+
+
+}
+
+
+
+
 .normal-anch{
 	text-decoration:none;
     color:black;
@@ -8,8 +43,7 @@ nav{
 	background-color:#6FB2EB;
     width:100vw;
 	padding:50px 0;
-    position:fixed;
-    top:0px;
+
 }
 
 .logo{
@@ -143,6 +177,11 @@ nav{
 
 
 
+
+.cmp-contentfragment__element-label{
+	display:none;
+
+}
 
 
 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="2253581f-6d1e-4919-bf78-30d6d5c6badb">
+    <jcr:content
+        cq:name="yogablogs"
+        cq:parentPath="/content/dam/yogaholics/content-fragment"
+        jcr:lastModified="{Date}2021-07-29T15:47:03.251+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="yogaBlogs"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2021-07-29T15:47:03.252+05:30">
+        <data
+            cq:model="/conf/yogaholics/settings/dam/cfm/models/blog-model"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:primaryType="nt:unstructured"
+                author="By Yogaholics team."
+                author_x0040_LastModified="{Date}2021-07-29T15:47:03.166+05:30"
+                blogContent="&lt;p>Yoga is a subjective technology, not an objective technology. Whether someone comes for relief from backache, or to explore mystical dimensions, initially, we teach the same thing because it is the change in subjectivity that makes the same device do different things for different people. So, when something is placed in your hands that is far more profound than you are able to grasp right now, it is important that you keep yourself in a certain way – the person sitting in front of you is a more important life than yourself. This is known as&amp;nbsp;&lt;i>upasana&lt;/i>.&lt;/p>&#xa;&lt;p>Upasana means you are not sitting on the main seat, you take a side seat in your own life within yourself. For one who wishes to impart yoga, the most important thing is to stand aside – to be there but to stand away. If you can do this, then dimensions beyond your understanding and experience will open up. And this is a great blessing because if you can do something way beyond yourself, that is the greatest thing for any human being.&lt;/p>&#xa;"
+                blogContent_x0040_ContentType="text/html"
+                blogContent_x0040_LastModified="{Date}2021-07-29T15:47:03.165+05:30"
+                blogHeading="&lt;p>Why one should learn yoga ?&lt;/p>&#xa;"
+                blogHeading_x0040_ContentType="text/html"
+                blogHeading_x0040_LastModified="{Date}2021-07-29T15:47:03.164+05:30"
+                publishDate="{Date}2021-07-13T00:00:00.000+05:30"
+                publishDate_x0040_LastModified="{Date}2021-07-29T15:47:03.165+05:30"/>
+        </data>
+        <metadata
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

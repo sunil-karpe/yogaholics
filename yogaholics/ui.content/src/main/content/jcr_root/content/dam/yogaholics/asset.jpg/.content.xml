@@ -3,20 +3,20 @@
     jcr:isCheckedOut="{Boolean}true"
     jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
-    jcr:uuid="2d94fa46-5b31-4f5a-818b-52f37e73b7e7">
+    jcr:uuid="3037d962-e32d-4f30-a91b-6b86c4e5b09a">
     <jcr:content
         cq:name="asset.jpg"
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/asset.jpg"
-        jcr:lastModified="{Date}2021-07-26T15:12:56.472+05:30"
+        jcr:lastModified="{Date}2021-07-27T16:11:55.010+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
             dam:ColorSpace="{Long}-1"
             dam:ExifOffset="{Long}232"
-            dam:extracted="{Date}2021-07-26T15:12:44.550+05:30"
+            dam:extracted="{Date}2021-07-27T16:11:54.634+05:30"
             dam:Fileformat="JPEG"
             dam:JpgFromRawLength="{Long}988"
             dam:JpgFromRawStart="{Long}382"
@@ -28,8 +28,8 @@
             dam:Physicalwidthindpi="{Long}72"
             dam:Physicalwidthininches="{Decimal}13.05555534362793"
             dam:Progressive="yes"
-            dam:sha1="fff9ce9094dd5b1039ab5e944fe7d09cbcbb2e4c"
-            dam:size="{Long}122443"
+            dam:sha1="6628f907d74c84a98cee400fc83fe99137daa159"
+            dam:size="{Long}122528"
             dc:format="image/jpeg"
             dc:modified="{Date}2021-07-22T13:24:16.717+05:30"
             exif:ColorSpace="{Long}65535"
@@ -38,7 +38,7 @@
             exif:ExifVersion="0221"
             exif:PixelXDimension="{Long}940"
             exif:PixelYDimension="{Long}51"
-            jcr:lastModified="{Date}2021-07-26T15:12:54.094+05:30"
+            jcr:lastModified="{Date}2021-07-27T16:11:49.193+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
