@@ -9,7 +9,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Categories"
-        jcr:uuid="3fe75acd-ff11-4d81-b0ef-0e77ac42f102"
+        jcr:uuid="f388a6b5-e3f0-45d2-ae9c-1ad9abd415d4"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
