@@ -44,7 +44,7 @@
                         <jcr:content jcr:primaryType="nt:unstructured"/>
                     </policy_171168910144100>
                     <policy_173114304284200
-                        jcr:lastModified="{Date}2021-07-19T17:28:02.689+05:30"
+                        jcr:lastModified="{Date}2021-07-28T14:54:37.117+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="YogaholicsOnly"
@@ -73,7 +73,68 @@
                         <jcr:content jcr:primaryType="nt:unstructured"/>
                     </form-container>
                 </container>
+                <button jcr:primaryType="nt:unstructured"/>
             </form>
+            <content jcr:primaryType="nt:unstructured">
+                <contentFragment jcr:primaryType="nt:unstructured">
+                    <policy_1627532633233
+                        jcr:lastModified="{Date}2021-07-29T14:30:19.434+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="designLayout"
+                        sling:resourceType="wcm/core/components/policy/policy">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                        <cq:styleGroups jcr:primaryType="nt:unstructured">
+                            <item0
+                                cq:styleGroupLabel="Layout"
+                                jcr:primaryType="nt:unstructured">
+                                <cq:styles jcr:primaryType="nt:unstructured">
+                                    <item0
+                                        cq:styleClasses="yogaholics-cf--grey"
+                                        cq:styleId="1627532710932"
+                                        cq:styleLabel="Design-grey"
+                                        jcr:primaryType="nt:unstructured"/>
+                                </cq:styles>
+                            </item0>
+                        </cq:styleGroups>
+                    </policy_1627532633233>
+                </contentFragment>
+                <image jcr:primaryType="nt:unstructured"/>
+                <breadcrumb jcr:primaryType="nt:unstructured"/>
+                <navigation jcr:primaryType="nt:unstructured"/>
+                <title jcr:primaryType="nt:unstructured">
+                    <policy_1627539956909
+                        jcr:lastModified="{Date}2021-07-29T11:57:26.745+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="Blue Layout"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        allowedTypes="[h1,h2,h3,h4,h5,h6]"
+                        type="h1">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                        <cq:styleGroups jcr:primaryType="nt:unstructured">
+                            <item0
+                                cq:styleGroupLabel="layout"
+                                jcr:primaryType="nt:unstructured">
+                                <cq:styles jcr:primaryType="nt:unstructured">
+                                    <item0
+                                        cq:styleClasses="cmp-title--blue"
+                                        cq:styleId="1627539972835"
+                                        cq:styleLabel="Bluelayout"
+                                        jcr:primaryType="nt:unstructured"/>
+                                </cq:styles>
+                            </item0>
+                        </cq:styleGroups>
+                    </policy_1627539956909>
+                </title>
+            </content>
         </components>
     </yogaholics>
+    <dam jcr:primaryType="nt:unstructured">
+        <cfm jcr:primaryType="nt:unstructured">
+            <components jcr:primaryType="nt:unstructured">
+                <contentfragment jcr:primaryType="nt:unstructured"/>
+            </components>
+        </cfm>
+    </dam>
 </jcr:root>

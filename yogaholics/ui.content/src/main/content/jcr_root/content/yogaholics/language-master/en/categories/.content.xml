@@ -2,14 +2,14 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-07-23T10:52:55.153+05:30"
+        cq:lastModified="{Date}2021-07-29T11:40:17.427+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Categories"
-        jcr:uuid="f388a6b5-e3f0-45d2-ae9c-1ad9abd415d4"
+        jcr:uuid="3fe75acd-ff11-4d81-b0ef-0e77ac42f102"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
@@ -20,7 +20,28 @@
                 jcr:lastModified="{Date}2021-07-19T17:27:28.172+05:30"
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <contentfragment
+                    cq:styleIds="[1627532710932]"
+                    jcr:created="{Date}2021-07-29T10:02:41.367+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-29T10:03:02.108+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/contentFragment"
+                    displayMode="multi"
+                    fragmentPath="/content/dam/yogaholics/content-fragment/yogablogs"
+                    paragraphScope="all"
+                    text="                    Title                                            Why one should learn yoga ?&#xa;&#xa;&#xa;&#xa;                        Publish Date                                    2021-07-13 00:00                                    &#xa;&#xa;                        Description                                            Yoga is a subjective technology, not an objective technology. Whether someone comes for relief from backache, or to explore mystical dimensions, initially, we teach the same thing because it is the change in subjectivity that makes the same device do different things for different people. So, when something is placed in your hands that is far more profound than you are able to grasp right now, it is important that you keep yourself in a certain way – the person sitting in front of you is a more important life than yourself. This is known as upasana.&#xa;&#xa;Upasana means you are not sitting on the main seat, you take a side seat in your own life within yourself. For one who wishes to impart yoga, the most important thing is to stand aside – to be there but to stand away. If you can do this, then dimensions beyond your understanding and experience will open up. And this is a great blessing because if you can do something way beyond yourself, that is the greatest thing for any human being.&#xa;&#xa;&#xa;&#xa;                        Author                                            By Yogaholics team.            &#xa;&#xa;"
+                    variationName="master"/>
+                <title
+                    jcr:created="{Date}2021-07-29T11:40:17.427+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-29T11:40:17.427+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/title"/>
+            </responsivegrid>
         </root>
     </jcr:content>
 </jcr:root>
