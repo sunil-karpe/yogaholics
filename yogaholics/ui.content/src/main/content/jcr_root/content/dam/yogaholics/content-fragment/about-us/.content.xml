@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="de16b030-b442-45dc-91af-9565b24e0ee2">
+    <jcr:content
+        cq:name="about-us"
+        cq:parentPath="/content/dam/yogaholics/content-fragment"
+        jcr:description=""
+        jcr:lastModified="{Date}2021-07-30T13:20:58.173+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="About Us"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2021-07-30T13:20:58.174+05:30">
+        <data
+            cq:model="/conf/yogaholics/settings/dam/cfm/models/about-us"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:primaryType="nt:unstructured"
+                blank="ABOUT US"
+                blank_x0040_LastModified="{Date}2021-07-30T13:20:58.057+05:30"
+                description="&lt;p>At Yoga Styling we produce high quality yoga props and accessories. We ship our products&amp;nbsp;all over the globe. We have production facilities in Bali, Vientiane and Penang. We pride ourselves on the quality of our goods, offering professional, diligent and accessible customer service at all points in the sales, manufacturing and shipping process.&lt;br>&#xa;&lt;/p>&#xa;&lt;p>Our range of yoga products is not limited to our web stock. We also manufacture to order. We can produce yoga accessories to your design specifications or we can assist you in designing the products you require.&lt;br>&#xa;&lt;br>&#xa;We are a boutique business supplying genuinely competitive pricing for wholesalers and re-sellers. Our clients return to us again and again because we make everything simple.&lt;br>&#xa;&lt;br>&#xa;Aside from the quality and pricing of our products, our major point of difference is fulfillment ...&lt;/p>&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xa;&lt;p>&amp;quot;We do 'exactly' what we tell you we are going to do&amp;quot;&lt;/p>&#xa;"
+                description_x0040_ContentType="text/html"
+                description_x0040_LastModified="{Date}2021-07-30T13:20:58.058+05:30"/>
+        </data>
+        <metadata
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
