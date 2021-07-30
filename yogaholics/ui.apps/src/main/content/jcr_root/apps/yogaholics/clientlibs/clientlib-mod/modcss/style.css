@@ -21,7 +21,7 @@ body{
 }
 
 .cmp-contentfragment__element:last-child{
-
+		 /* Adding a comment is possible in this way only. */ 
 }
 
 
