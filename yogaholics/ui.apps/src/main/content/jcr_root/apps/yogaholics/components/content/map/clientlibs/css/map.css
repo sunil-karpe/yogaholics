@@ -1,0 +1,16 @@
+.map{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map p{
+
+}
+
+.map iframe{
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}

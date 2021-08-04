@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-07-30T13:44:47.372+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="About Us"
+        sling:resourceType="yogaholics/components/structure/page"
+        navTitle="About Us"
+        pageTitle="About Us">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <responsivegrid
+                jcr:created="{Date}2021-07-19T17:27:15.060+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-07-19T17:27:28.172+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <contentfragment
+                    cq:styleIds="[1627532710932]"
+                    jcr:created="{Date}2021-07-30T13:05:52.596+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-30T13:20:37.473+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/contentFragment"
+                    displayMode="multi"
+                    fragmentPath="/content/dam/yogaholics/content-fragment/about-us"
+                    paragraphScope="all"
+                    text="                    Blank                                            ABOUT US            &#xa;&#xa;                        Description                                            At Yoga Styling we produce high quality yoga props and accessories. We ship our products all over the globe. We have production facilities in Bali, Vientiane and Penang. We pride ourselves on the quality of our goods, offering professional, diligent and accessible customer service at all points in the sales, manufacturing and shipping process.&#xa;&#xa;&#xa;Our range of yoga products is not limited to our web stock. We also manufacture to order. We can produce yoga accessories to your design specifications or we can assist you in designing the products you require.&#xa;&#xa;We are a boutique business supplying genuinely competitive pricing for wholesalers and re-sellers. Our clients return to us again and again because we make everything simple.&#xa;&#xa;Aside from the quality and pricing of our products, our major point of difference is fulfillment ...&#xa;&#xa;&#xa;&#xa;&quot;We do 'exactly' what we tell you we are going to do&quot;&#xa;&#xa;&#xa;&#xa;"
+                    variationName="master"/>
+                <card
+                    jcr:created="{Date}2021-07-30T13:22:00.336+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-30T13:24:07.873+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/card">
+                    <cards jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            pathbr="/content/dam/yogaholics/Yoga_Landing.jpg"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            pathbr="/content/dam/yogaholics/tutor3.jpg"/>
+                        <item2
+                            jcr:primaryType="nt:unstructured"
+                            pathbr="/content/dam/yogaholics/tutor2.jpg"/>
+                    </cards>
+                </card>
+                <map
+                    jcr:created="{Date}2021-07-30T12:16:12.225+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-30T13:44:47.364+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/map"
+                    text="New Delhi,&#xd;&#xa;India&#xd;&#xa;Pin Code - 110001"/>
+            </responsivegrid>
+            <card_2108754793
+                jcr:created="{Date}2021-07-22T18:52:13.778+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-07-23T09:50:19.331+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="yogaholics/components/content/card">
+                <cards jcr:primaryType="nt:unstructured">
+                    <item0
+                        jcr:primaryType="nt:unstructured"
+                        cardtitle="Hello"
+                        desc="jsfjsfsdf"
+                        path="/content/dam/we-retail/en/activities/hiking/hiking_3.jpg"/>
+                    <item1
+                        jcr:primaryType="nt:unstructured"
+                        cardtitle="wfsf"
+                        desc="fsf"
+                        path="fdsffsdafsf"/>
+                </cards>
+            </card_2108754793>
+        </root>
+    </jcr:content>
+</jcr:root>
