@@ -9,7 +9,7 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/Yoga_Landing.jpg"
-        jcr:lastModified="{Date}2021-08-04T14:02:12.763+05:30"
+        jcr:lastModified="{Date}2021-07-29T17:00:37.440+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -77,7 +77,7 @@
             exifEX:PhotographicSensitivity="{Long}400"
             exifEX:SensitivityType="{Long}1"
             Iptc4xmpCore:CountryCode="UNS"
-            jcr:lastModified="{Date}2021-08-04T14:02:12.462+05:30"
+            jcr:lastModified="{Date}2021-07-29T17:00:36.905+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"

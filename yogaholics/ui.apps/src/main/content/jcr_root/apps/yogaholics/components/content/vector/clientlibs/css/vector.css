@@ -3,7 +3,7 @@ div.itemout {
     flex-wrap:wrap;
     width:100%;
     margin:auto;
-    justify-content:center;
+    justify-content:flex-start;
 	padding:20px 0;
 	border-collapse:collapse;
 }
@@ -11,7 +11,7 @@ div.itemout {
 .item {
     	width:80px;
     	margin-top:15px;
-    	margin-left:20px;
+    	margin-left:50px;
         font-size:12px;
     	padding:10px;
 		flex-basis:250px;

@@ -4,13 +4,15 @@
 
 </sly>
 			<div class="alignvertical">
-
+            <div>
+            <h3>Our Features</h3>
+            <hr>
+            </div>
 
 			<div class="itemout">
 				<sly data-sly-list.head="${multiItems.cards.listChildren}">
 					<div class="item"><img src=${head.pathbr} height=150px width=100% style="padding:4px" alt="Image not found"/>
 					<h3>${head.iconname}</h3>
-					<p>${head.desc}</p>
-			</div>
+					<p>${head.desc}</p></div>
 				</sly>
 			</div>

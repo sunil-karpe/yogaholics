@@ -8,12 +8,11 @@
                 <responsivegrid jcr:primaryType="nt:unstructured">
                     <content-default
                         jcr:description="Policy for editable layout containers"
-                        jcr:lastModified="{Date}2021-08-04T16:32:42.510+05:30"
+                        jcr:lastModified="{Date}2021-07-19T17:26:01.883+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="yogaholics Default"
                         sling:resourceType="wcm/core/components/policy/policy"
-                        columns="12"
                         components="[/libs/wcm/foundation/components/responsivegrid,group:yogaholics,/apps/yogaholics/components/form/container]"
                         policyResourceType="wcm/foundation/components/responsivegrid">
                         <cq:authoring jcr:primaryType="nt:unstructured">
@@ -36,7 +35,7 @@
                             mergeList="{Boolean}true"/>
                     </content-default>
                     <policy_171168910144100
-                        jcr:lastModified="{Date}2021-08-04T14:34:06.728+05:30"
+                        jcr:lastModified="{Date}2021-07-19T16:57:09.820+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="YogaholicsOnly"
@@ -45,7 +44,7 @@
                         <jcr:content jcr:primaryType="nt:unstructured"/>
                     </policy_171168910144100>
                     <policy_173114304284200
-                        jcr:lastModified="{Date}2021-08-04T14:19:34.933+05:30"
+                        jcr:lastModified="{Date}2021-07-28T14:54:37.117+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="YogaholicsOnly"
@@ -58,15 +57,6 @@
                             jcr:mixinTypes="[cq:ReplicationStatus]"
                             jcr:primaryType="nt:unstructured"/>
                     </policy_173114304284200>
-                    <policy_1628068750077
-                        jcr:lastModified="{Date}2021-08-04T15:39:06.939+05:30"
-                        jcr:lastModifiedBy="admin"
-                        jcr:primaryType="nt:unstructured"
-                        jcr:title="ArticlePolicy"
-                        sling:resourceType="wcm/core/components/policy/policy"
-                        components="[/apps/yogaholics/components/content/bloglink,/apps/yogaholics/components/content/breadcrumb,/apps/yogaholics/components/content/contentFragment,/apps/yogaholics/components/content/image,/apps/yogaholics/components/content/title]">
-                        <jcr:content jcr:primaryType="nt:unstructured"/>
-                    </policy_1628068750077>
                 </responsivegrid>
             </components>
         </foundation>
@@ -88,7 +78,7 @@
             <content jcr:primaryType="nt:unstructured">
                 <contentFragment jcr:primaryType="nt:unstructured">
                     <policy_1627532633233
-                        jcr:lastModified="{Date}2021-08-04T14:50:24.632+05:30"
+                        jcr:lastModified="{Date}2021-07-29T14:30:19.434+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="designLayout"
@@ -114,7 +104,7 @@
                 <navigation jcr:primaryType="nt:unstructured"/>
                 <title jcr:primaryType="nt:unstructured">
                     <policy_1627539956909
-                        jcr:lastModified="{Date}2021-08-04T14:46:59.117+05:30"
+                        jcr:lastModified="{Date}2021-07-29T11:57:26.745+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Blue Layout"
