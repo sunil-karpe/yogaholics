@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-08-05T10:30:36.553+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/yogaholics/settings/wcm/templates/yogacontent"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Yoga Postures"
+        jcr:uuid="af28fd1e-3be9-4b5a-9a3c-8c1827f55b36"
+        sling:resourceType="yogaholics/components/structure/page">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <responsivegrid
+                jcr:created="{Date}2021-08-04T14:18:42.697+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:18:49.966+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+            <responsivegrid_1750407505
+                jcr:created="{Date}2021-08-04T14:20:20.760+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:24:59.667+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <title
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-05T10:26:14.887+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-05T10:26:58.612+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h3"/>
+                <contentfragment
+                    cq:styleIds="[1627532710932]"
+                    jcr:created="{Date}2021-08-05T10:26:24.187+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-05T10:30:36.487+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/contentFragment"
+                    displayMode="multi"
+                    fragmentPath="/content/dam/yogaholics/content-fragment/11-easy-poses-for-high-blood-pressure"
+                    paragraphScope="all"
+                    text="                    Title                                                        &#xa;&#xa;                        Publish Date                                                                        &#xa;&#xa;                        Description                                             &#xa;&#xa;High blood pressure or hypertension is a serious condition that leads to heart attacks, strokes, and even death. This ‘silent killer’ is all the more dangerous because it displays no symptoms. So, the only way you can find out is by getting yourself checked regularly. The next logical step is, of course, to know how to control high blood pressure.&#xa;&#xa;Yoga and pranayama are two natural ways to control high blood pressure.&#xa;&#xa;What is hypertension or high blood pressure?&#xa;&#xa;Blood pressure is the force of blood in your arteries. The right pressure varies from person to person and needs to be regulated. Only then will your system function smoothly. The American Heart Association considers 120/80 as the standard blood pressure limit. Pre-hypertension is when your parameter is between 120/80 and 140/90. Anything above 140/90 is hypertension and is dangerous.&#xa;&#xa;What causes high blood pressure?&#xa;&#xa;Hypertension is an independent condition which means that it is not triggered by other medical conditions like diabetes, heart-related problems or kidney malfunctioning.&#xa;&#xa;Stress is a significant factor that causes hypertension. When you are stressed, your heart beats faster, and your blood vessels contract.&#xa;&#xa;Other factors such as adverse lifestyle choices including smoking, drinking, drug abuse also causes harm.&#xa;&#xa;If you do not exercise enough or are overweight, you could be heading towards hypertension.&#xa;&#xa;How to control high blood pressure&#xa;&#xa;Neither a high nor a low blood pressure is desirable; a balance is essential in the body. While healthy dietary habits contribute to maintaining balance, you cannot ignore the role played by the mind either. So, how can you harmonize the two? The answer lies in the ancient science of yoga. By regularly practising simple postures, yoga will help you combat blood pressure problems.&#xa;&#xa;Why Yoga poses for high blood pressure&#xa;&#xa;Yoga asanas involve breathing consciously and deeply while synchronizing your body movements. They can help control blood pressure naturally, primarily by relieving stress.&#xa;&#xa;Yoga asanas can soothe the nerves and help slow down an abnormal heart rate.&#xa;&#xa;Yoga helps in increasing immunity and reducing incidences of heart problems like heart attacks and strokes.&#xa;&#xa;Lack of sufficient rest is the primary reason for stress and hypertension. Yoga helps regularize sleep habits and patterns.&#xa;&#xa;Obesity can also lead to hypertension. Regular practice of yoga and an improved diet regulates body weight.&#xa;&#xa;Yoga gives positive energy to the body and mind. It makes you happier and more hopeful in life. In the long run, this helps to regulate blood pressure levels.&#xa;&#xa;The how: Yoga Poses for high blood pressure&#xa;&#xa;The following yoga asanas can help lower high blood pressure. However, it would be best to practice them under the guidance of a trained specialist.&#xa;&#xa;Yoga Poses for high blood pressure&#xa;&#xa;Shishuasana (Child Pose)&#xa;&#xa;Vajrasana (Diamond Pose)&#xa;&#xa;Paschimottanasana (Forward Bend Pose)&#xa;&#xa;Shavasana (Corpse Pose)&#xa;&#xa;Sukhasana (Easy Pose)&#xa;&#xa;Ardha Matsyendrasana (Sitting Half Spinal Twist)&#xa;&#xa;Badhakonasana (Butterfly Pose)&#xa;&#xa;Janusirsasana (One-legged Forward Bend)&#xa;&#xa;Virasana (hero pose)&#xa;&#xa;Setu Bandhasana (Bridge Pose)&#xa;&#xa;Ardha halasana (half plow pose)&#xa;&#xa;&#xa;&#xa;                        Author                                            By:Gurudev Ravishankar            &#xa;&#xa;"
+                    variationName="master"/>
+            </responsivegrid_1750407505>
+            <responsivegrid_1429685274
+                jcr:created="{Date}2021-08-04T14:20:26.514+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:34:34.494+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+        </root>
+    </jcr:content>
+</jcr:root>

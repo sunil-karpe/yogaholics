@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:granite="http://www.adobe.com/jcr/granite/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Template"
     allowedPaths="[/content/entities(/.*)?]"
     ranking="{Long}100">
     <jcr:content
-        cq:lastModified="{Date}2021-07-29T19:07:45.862+05:30"
+        cq:lastModified="{Date}2021-07-29T13:54:39.228+05:30"
         cq:lastModifiedBy="admin"
         cq:scaffolding="/conf/yogaholics/settings/dam/cfm/models/blog-model/jcr:content/model"
         cq:templateType="/libs/settings/dam/cfm/model-types/fragment"
@@ -23,22 +23,48 @@
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="cq/gui/components/authoring/dialog">
                 <content
-                    jcr:lastModified="{Date}2021-07-29T19:07:45.862+05:30"
+                    jcr:lastModified="{Date}2021-07-29T13:54:39.228+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="granite/ui/components/coral/foundation/fixedcolumns">
                     <items
                         jcr:primaryType="nt:unstructured"
                         maxGeneratedOrder="20">
-                        <_x0031_627562263409
+                        <_x0031_627546905618
                             jcr:primaryType="nt:unstructured"
-                            sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
-                            fieldDescription="Title of the blog"
-                            fieldLabel="Title"
-                            listOrder="1"
-                            maxlength="255"
-                            metaType="text-single"
-                            name="title"
+                            sling:resourceType="dam/cfm/admin/components/authoring/contenteditor/multieditor"
+                            cfm-element="Title"
+                            fieldDescription="Please add blog title here."
+                            listOrder="2"
+                            metaType="text-multi"
+                            name="blogHeading"
+                            renderReadOnly="false"
+                            showEmptyInReadOnly="true"
+                            valueType="string"/>
+                        <_x0031_627446675561
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="granite/ui/components/coral/foundation/form/datepicker"
+                            displayedFormat="YYYY-MM-DD HH:mm"
+                            emptyText="YYYY-MM-DD HH:mm"
+                            fieldLabel="Publish Date"
+                            listOrder="5"
+                            metaType="date"
+                            name="publishDate"
+                            renderReadOnly="false"
+                            showEmptyInReadOnly="true"
+                            valueFormat="YYYY-MM-DD[T]HH:mm:ss.000Z"
+                            valueType="calendar">
+                            <granite:data
+                                jcr:primaryType="nt:unstructured"
+                                typeHint="Date"/>
+                        </_x0031_627446675561>
+                        <_x0031_627446714968
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="dam/cfm/admin/components/authoring/contenteditor/multieditor"
+                            cfm-element="Description"
+                            listOrder="2"
+                            metaType="text-multi"
+                            name="blogContent"
                             renderReadOnly="false"
                             showEmptyInReadOnly="true"
                             valueType="string"/>
@@ -50,17 +76,6 @@
                             maxlength="255"
                             metaType="text-single"
                             name="author"
-                            renderReadOnly="false"
-                            showEmptyInReadOnly="true"
-                            value="By:"
-                            valueType="string"/>
-                        <_x0031_627446714968
-                            jcr:primaryType="nt:unstructured"
-                            sling:resourceType="dam/cfm/admin/components/authoring/contenteditor/multieditor"
-                            cfm-element="Description"
-                            listOrder="2"
-                            metaType="text-multi"
-                            name="blogContent"
                             renderReadOnly="false"
                             showEmptyInReadOnly="true"
                             valueType="string"/>
