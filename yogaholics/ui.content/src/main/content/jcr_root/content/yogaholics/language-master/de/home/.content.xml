@@ -16,7 +16,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Startseite"
-        jcr:uuid="dfe18422-e4a0-432b-8f8e-8382f6c3733f"
+        jcr:uuid="eff79fd9-69f5-40d3-938e-e1be8d76399a"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"

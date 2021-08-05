@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-08-05T10:23:55.859+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/conf/yogaholics/settings/wcm/templates/yogacontent"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Yoga For Beginner"
+        jcr:uuid="df9c7f84-8f38-4cc6-9131-b25acdd59618"
+        sling:resourceType="yogaholics/components/structure/page">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <responsivegrid
+                jcr:created="{Date}2021-08-04T14:18:42.697+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:18:49.966+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+            <responsivegrid_1750407505
+                jcr:created="{Date}2021-08-04T14:20:20.760+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:24:59.667+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <title
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-05T10:23:01.536+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-05T10:23:55.854+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h3"/>
+                <contentfragment
+                    cq:styleIds="[1627532710932]"
+                    jcr:created="{Date}2021-08-05T10:23:08.195+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-05T10:23:34.892+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/contentFragment"
+                    displayMode="multi"
+                    fragmentPath="/content/dam/yogaholics/content-fragment/yogablogs"
+                    paragraphScope="all"
+                    text="                    Title                                            Why one should learn yoga ?&#xa;&#xa;&#xa;&#xa;                        Publish Date                                    2021-07-13 00:00                                    &#xa;&#xa;                        Description                                            Yoga is a subjective technology, not an objective technology. Whether someone comes for relief from backache, or to explore mystical dimensions, initially, we teach the same thing because it is the change in subjectivity that makes the same device do different things for different people. So, when something is placed in your hands that is far more profound than you are able to grasp right now, it is important that you keep yourself in a certain way – the person sitting in front of you is a more important life than yourself. This is known as upasana.&#xa;&#xa;Upasana means you are not sitting on the main seat, you take a side seat in your own life within yourself. For one who wishes to impart yoga, the most important thing is to stand aside – to be there but to stand away. If you can do this, then dimensions beyond your understanding and experience will open up. And this is a great blessing because if you can do something way beyond yourself, that is the greatest thing for any human being.&#xa;&#xa;&#xa;&#xa;                        Author                                            By Yogaholics team.            &#xa;&#xa;"
+                    variationName="master"/>
+            </responsivegrid_1750407505>
+            <responsivegrid_1429685274
+                jcr:created="{Date}2021-08-04T14:20:26.514+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:34:34.494+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+        </root>
+    </jcr:content>
+</jcr:root>

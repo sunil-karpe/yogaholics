@@ -4,4 +4,5 @@
     jcr:primaryType="cq:Page">
     <yogaholicstemp/>
     <content-page/>
+    <yogacontent/>
 </jcr:root>
