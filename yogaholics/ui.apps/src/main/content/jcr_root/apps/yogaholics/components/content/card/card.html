@@ -1,6 +1,9 @@
+<sly data-sly-use.clientlib="/libs/granite/sightly/templates/clientlib.html" data-sly-call="${clientlib.all @ categories='yogaholics.'}"/>
+
 
 <sly	data-sly-use.multiItems="yogaholics.core.models.Multicard"></sly>
-			<div class="alignvertical">
+
+<div class="alignvertical">
 
 					<div class="cardcont">
 					 	<sly data-sly-list.head="${multiItems.cards.listChildren}">
@@ -14,5 +17,4 @@
 					</div>
 
 
-			
 
