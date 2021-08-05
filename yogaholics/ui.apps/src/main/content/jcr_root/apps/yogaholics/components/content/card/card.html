@@ -1,50 +1,18 @@
 
-<sly	data-sly-use.multiItems="yogaholics.core.models.Multicard">
-
-</sly>
+<sly	data-sly-use.multiItems="yogaholics.core.models.Multicard"></sly>
 			<div class="alignvertical">
-            <div>
-            <h3>Learn yogas and asans</h3>
-            <hr>
-            </div>
 
-			<div class="cardcont">
-					 <sly data-sly-list.head="${multiItems.cards.listChildren}">
-				<div class="carditem"><img src=${head.pathbr} height=150px width=100% style="padding:4px" alt="Image not found"/>
-					<h3>${head.cardtitle}</h3><p>${head.desc}</p></div>
-					</sly>
+					<div class="cardcont">
+					 	<sly data-sly-list.head="${multiItems.cards.listChildren}">
+							<div class="carditem">
+								<img src=${head.pathbr} height=150px width=100% style="padding:4px" alt="Image not found"/>
+								<h3>${head.cardtitle}</h3>
+								<p>${head.desc}</p>
+							</div>
 
-
-			<!--/*	<div class="carditem">
-				<img src="/content/dam/yogaholics/yoga2.jpg" height=150px width=100% style="padding:4px"/>
-				<h3>Motivation</h3>
-				<p>The goal of the Yogaholics and all classical yoga practice is to bring about a state of
-				calm clarity, balanced energy, and lightness of body and mind.
-					</p></div><div class="carditem"><img src="/content/dam/yogaholics/yoga2.jpg" height=150px width=100% style="padding:4px"/>
-				<h3>Yoga</h3>
-				<p>The goal of the Yogaholics and all classical yoga practice is to bring about a state of
-				calm clarity, balanced energy, and lightness of body and mind.
-					</p></div><div class="carditem"><img src="/content/dam/yogaholics/yoga2.jpg" height=150px width=100% style="padding:4px"/>
-				<h3>Yoga</h3>
-				<p>The goal of the Yogaholics and all classical yoga practice is to bring about a state of
-				calm clarity, balanced energy, and lightness of body and mind.
-					</p></div><div class="carditem"><img src="/content/dam/yogaholics/yoga2.jpg" height=150px width=100% style="padding:4px"/>
-				<h3>Yoga</h3>
-				<p>The goal of the Yogaholics and all classical yoga practice is to bring about a state of
-				calm clarity, balanced energy, and lightness of body and mind.
-					</p></div>   */-->
-
-            </div>
-            <a class="normal-anch" href="#">Explore</a>
-
-			</div>
-
-<!--/*
- <div style="height:250px;"><img src=${head.pathbr} height=200 width=270 style="padding:4px"/><h2>${head.product}</h2>
-                             <p>${head.desc}</p>
-
-                             </div>
+						</sly>
+					</div>
 
 
+			
 
- */-->

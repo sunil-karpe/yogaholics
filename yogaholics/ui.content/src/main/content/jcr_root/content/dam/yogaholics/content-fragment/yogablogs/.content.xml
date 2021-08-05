@@ -7,56 +7,31 @@
     <jcr:content
         cq:name="yogablogs"
         cq:parentPath="/content/dam/yogaholics/content-fragment"
-        jcr:lastModified="{Date}2021-08-04T19:55:46.992+05:30"
+        jcr:lastModified="{Date}2021-07-29T15:47:03.251+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent"
-        jcr:title="Humans Need Trees"
+        jcr:title="yogaBlogs"
         contentFragment="{Boolean}true"
-        lastFragmentSave="{Date}2021-08-04T19:55:46.993+05:30">
+        lastFragmentSave="{Date}2021-07-29T15:47:03.252+05:30">
         <data
             cq:model="/conf/yogaholics/settings/dam/cfm/models/blog-model"
             jcr:primaryType="nt:unstructured">
             <master
                 jcr:primaryType="nt:unstructured"
-                author="By Dez Hill"
-                author_x0040_LastModified="{Date}2021-08-04T19:55:03.316+05:30"
-                blogContent="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/yogaholics/yoga1.jpg&quot; data-assetref=&quot;yoga1-1628087101367&quot;>&lt;/p>&#xa;&lt;p>Numerous people in this world have encountered some form of conflict in their life. How these conflicts are dealt with varies from person to person. Many people have traumatic incidents that they endure also, which can cause a disorder called PTSD (post-traumatic stress disorder). The traumatic events that lead to post-traumatic stress disorder are usually so overwhelming, and frightening that they would upset anyone. When your sense of safety and trust are shattered, it’s normal to feel crazy, disconnected, or numb, and most people do.&lt;/p>&#xa;&lt;p>Let’s explore different ways to deal with PTSD. Self- soothing activities is the most popular way to help keep your emotions under control. If you are unfamiliar with what self-soothing activities are here is a quick summary for you. Self-soothing activities are a source of decreased arousal, pleasurable sensations and calming feelings. They are characterized by: slow, gentle or rhythmical movements; softness in texture, tone and hues; quietness in volume. They include but are not limited to the following: • Calming breathing • Gentle holding and rocking • Calming self-talk • accessing calming sensations: e.g., warm baths and showers, warm drinks, soft textiles (blankets, bed socks, soft toys, hot water bottles), calming music, soft lighting walking, gardening or swimming therapeutic process.&lt;/p>&#xa;&lt;p>These activities are an incredible way to deal with what symptom’s you may be feeling in that moment; but I want to explore a different route. Let’s think outside the box; trees.&lt;/p>&#xa;&lt;p>A symbiotic relationship exists between trees and humans.&amp;nbsp; Humans breathe in oxygen and exhale carbon dioxide, while trees breathe in carbon dioxide and exhale oxygen. There are many similarities between humans and trees. For example, let’s take the American Hardwood tree. These trees are like humans in three distinct and profound ways: Both are mostly water; both have a peak life span of approximately 80 years and both are completely unique. The most important similarity between humans and trees is that each tree, like each human, is unique and beautiful in its own way.&lt;/p>&#xa;&lt;p>People need trees. They need to see leaves from their windows, to sit in green spaces, and to play in the shade. Trees draw people out from behind walls of brick and glass. Nature restores the mental functioning in the same way that food and water restore bodies.&lt;/p>&#xa;&lt;p>Man-made environments take away from us, nature gives back. . Forests, streams, rivers, lakes, and oceans demand very little from us, though they’re still engaging, ever changing, and attention-grabbing. The difference between natural and urban landscapes is how they command our attention. While man-made landscapes bombard us with stimulation, their natural counterparts give us the chance to think as much or as little as we’d like, and the opportunity to replenish exhausted mental resource.&lt;/p>&#xa;&lt;p>Choosing Nature is always the best way to go.&lt;/p>&#xa;"
+                author="By Yogaholics team."
+                author_x0040_LastModified="{Date}2021-07-29T15:47:03.166+05:30"
+                blogContent="&lt;p>Yoga is a subjective technology, not an objective technology. Whether someone comes for relief from backache, or to explore mystical dimensions, initially, we teach the same thing because it is the change in subjectivity that makes the same device do different things for different people. So, when something is placed in your hands that is far more profound than you are able to grasp right now, it is important that you keep yourself in a certain way – the person sitting in front of you is a more important life than yourself. This is known as&amp;nbsp;&lt;i>upasana&lt;/i>.&lt;/p>&#xa;&lt;p>Upasana means you are not sitting on the main seat, you take a side seat in your own life within yourself. For one who wishes to impart yoga, the most important thing is to stand aside – to be there but to stand away. If you can do this, then dimensions beyond your understanding and experience will open up. And this is a great blessing because if you can do something way beyond yourself, that is the greatest thing for any human being.&lt;/p>&#xa;"
                 blogContent_x0040_ContentType="text/html"
-                blogContent_x0040_LastModified="{Date}2021-08-04T19:55:03.317+05:30"
+                blogContent_x0040_LastModified="{Date}2021-07-29T15:47:03.165+05:30"
                 blogHeading="&lt;p>Why one should learn yoga ?&lt;/p>&#xa;"
                 blogHeading_x0040_ContentType="text/html"
-                blogHeading_x0040_LastModified="{Date}2021-07-29T17:13:47.805+05:30"
-                date="{Date}2021-07-29T00:00:00.000+05:30"
-                date_x0040_LastModified="{Date}2021-07-29T18:59:51.865+05:30"
-                publishDate_x0040_LastModified="{Date}2021-07-29T19:06:18.387+05:30"
-                title="HUMANS NEED TREES"
-                title_x0040_LastModified="{Date}2021-08-04T19:55:03.315+05:30"/>
-            <summary
-                jcr:primaryType="nt:unstructured"
-                author="By Dez Hill"
-                author_x0040_LastModified="{Date}2021-08-04T19:55:46.860+05:30"
-                blogContent="&lt;p style=&quot;text-align: center;&quot;>&lt;img src=&quot;/content/dam/yogaholics/yoga1.jpg&quot; data-assetref=&quot;yoga1-1628087105678&quot;>&lt;/p>&#xa;&lt;p>Numerous people in this world have encountered some form of conflict in their life. How these conflicts are dealt with varies from person to person. Many people have traumatic incidents that they endure also, which can cause a disorder called PTSD (post-traumatic stress disorder).&amp;nbsp;&lt;/p>&#xa;&lt;p>&lt;a title=&quot;Read More&quot; href=&quot;http://localhost:4502/content/yogaholics/language-master/en/blogs/yogaPostures.html&quot; target=&quot;_blank&quot;>&lt;b>Read More&lt;/b>&lt;/a>&lt;/p>&#xa;"
-                blogContent_x0040_ContentType="text/html"
-                blogContent_x0040_LastModified="{Date}2021-08-04T19:55:46.861+05:30"
-                title="HUMANS NEED TREES"
-                title_x0040_LastModified="{Date}2021-08-04T19:55:46.860+05:30"/>
+                blogHeading_x0040_LastModified="{Date}2021-07-29T15:47:03.164+05:30"
+                publishDate="{Date}2021-07-13T00:00:00.000+05:30"
+                publishDate_x0040_LastModified="{Date}2021-07-29T15:47:03.165+05:30"/>
         </data>
         <metadata
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"/>
-        <model jcr:primaryType="nt:unstructured">
-            <variations jcr:primaryType="nt:unstructured">
-                <summary
-                    jcr:description=""
-                    jcr:primaryType="nt:unstructured"
-                    jcr:title="Summary"
-                    name="summary">
-                    <properties
-                        jcr:primaryType="nt:unstructured"
-                        synchronizeWithVersion="[title:f1f9990f-4224-4d05-bc2c-706f287371f3,author:f1f9990f-4224-4d05-bc2c-706f287371f3,blogContent:f1f9990f-4224-4d05-bc2c-706f287371f3]"/>
-                </summary>
-            </variations>
-        </model>
         <related jcr:primaryType="nt:unstructured"/>
     </jcr:content>
 </jcr:root>
