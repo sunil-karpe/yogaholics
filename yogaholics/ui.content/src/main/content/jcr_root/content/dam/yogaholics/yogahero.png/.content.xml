@@ -9,7 +9,7 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/yogahero.png"
-        jcr:lastModified="{Date}2021-08-05T15:04:07.043+05:30"
+        jcr:lastModified="{Date}2021-08-05T19:16:38.601+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -25,11 +25,11 @@
             dam:Physicalwidthindpi="{Long}-1"
             dam:Physicalwidthininches="{Decimal}-1.0"
             dam:Progressive="no"
-            dam:sha1="7420fed60ee5fd44c9f38ec7fbedfa1384f4fa01"
+            dam:sha1="5c8d9355594afab9764c21694b9a3ae90af1f9f4"
             dam:size="{Long}75403"
             dc:format="image/png"
             dc:modified="{Date}2021-08-05T15:04:04.514+05:30"
-            jcr:lastModified="{Date}2021-08-05T15:04:04.513+05:30"
+            jcr:lastModified="{Date}2021-08-05T19:16:34.810+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
