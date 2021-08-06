@@ -9,7 +9,7 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/modular.png"
-        jcr:lastModified="{Date}2021-08-05T15:04:00.746+05:30"
+        jcr:lastModified="{Date}2021-08-05T19:16:18.205+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -25,11 +25,11 @@
             dam:Physicalwidthindpi="{Long}96"
             dam:Physicalwidthininches="{Decimal}5.332666873931885"
             dam:Progressive="no"
-            dam:sha1="0790aad4a5de63c3f53ade13eac1f95199ada81d"
+            dam:sha1="ee764ae6559bd286d7fadec6d380a0fc33ce8508"
             dam:size="{Long}20711"
             dc:format="image/png"
             dc:modified="{Date}2021-07-27T16:11:50.120+05:30"
-            jcr:lastModified="{Date}2021-08-05T14:48:16.564+05:30"
+            jcr:lastModified="{Date}2021-08-05T19:16:16.806+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
