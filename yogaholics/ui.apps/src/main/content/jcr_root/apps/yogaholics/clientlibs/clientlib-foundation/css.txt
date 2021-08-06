@@ -3,3 +3,5 @@ bootstrap.min.css
 bootstrap-theme.min.css
 bootstrap-theme.min.css
 bootstrap.min.css.map
+owl.carousel.min.css
+owl.theme.default.min.css

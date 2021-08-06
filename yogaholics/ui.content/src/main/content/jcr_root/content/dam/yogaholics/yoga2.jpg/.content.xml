@@ -9,7 +9,7 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/yoga2.jpg"
-        jcr:lastModified="{Date}2021-08-05T19:16:50.843+05:30"
+        jcr:lastModified="{Date}2021-08-05T15:04:10.281+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -36,13 +36,13 @@
             tiff:ImageWidth="{Long}306"/>
         <related jcr:primaryType="nt:unstructured"/>
         <usages
-            dam:score="{Long}4"
+            dam:score="{Long}1"
             jcr:primaryType="nt:unstructured"
             usedBy="[aem]">
             <aem
                 jcr:primaryType="nt:unstructured"
-                count="{Long}4"
-                lastUsed="{Date}2021-08-05T20:17:14.795+05:30"/>
+                count="{Long}1"
+                lastUsed="{Date}2021-07-28T11:59:22.772+05:30"/>
         </usages>
     </jcr:content>
 </jcr:root>

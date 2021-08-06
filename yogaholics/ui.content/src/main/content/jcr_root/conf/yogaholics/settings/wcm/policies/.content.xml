@@ -44,12 +44,12 @@
                         <jcr:content jcr:primaryType="nt:unstructured"/>
                     </policy_171168910144100>
                     <policy_173114304284200
-                        jcr:lastModified="{Date}2021-08-05T19:43:24.455+05:30"
+                        jcr:lastModified="{Date}2021-07-28T14:54:37.117+05:30"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="YogaholicsOnly"
                         sling:resourceType="wcm/core/components/policy/policy"
-                        components="[/libs/cq/experience-fragments/editor/components/experiencefragment,group:yogaholics,group:yogaholics Form]">
+                        components="[group:yogaholics,group:yogaholics Form]">
                         <jcr:content
                             cq:lastReplicated="{Date}2021-07-19T17:35:11.098+05:30"
                             cq:lastReplicatedBy="admin"

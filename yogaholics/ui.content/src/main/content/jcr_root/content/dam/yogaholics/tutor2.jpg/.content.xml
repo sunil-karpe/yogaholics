@@ -9,7 +9,7 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/tutor2.jpg"
-        jcr:lastModified="{Date}2021-08-05T19:16:49.645+05:30"
+        jcr:lastModified="{Date}2021-08-05T15:04:09.641+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -36,7 +36,7 @@
             dc:modified="{Date}2021-07-26T15:13:00.243+05:30"
             exif:ColorSpace="{Long}1"
             exif:DateTimeOriginal="{Date}2021-07-26T11:55:40.000+05:30"
-            jcr:lastModified="{Date}2021-08-05T19:16:14.595+05:30"
+            jcr:lastModified="{Date}2021-08-05T14:48:13.231+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
@@ -62,14 +62,5 @@
             </plus:Licensor>
         </metadata>
         <related jcr:primaryType="nt:unstructured"/>
-        <usages
-            dam:score="{Long}1"
-            jcr:primaryType="nt:unstructured"
-            usedBy="[aem]">
-            <aem
-                jcr:primaryType="nt:unstructured"
-                count="{Long}1"
-                lastUsed="{Date}2021-08-05T19:56:58.487+05:30"/>
-        </usages>
     </jcr:content>
 </jcr:root>

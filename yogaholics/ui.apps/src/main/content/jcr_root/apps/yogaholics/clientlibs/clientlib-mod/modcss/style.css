@@ -1,4 +1,12 @@
+
+
+
+
+
 body{
+    color:#020814 !important;
+    font-family:cambria;
+    font-weight:400px;
 
 }
 
@@ -69,15 +77,18 @@ body{
 
 .yogaholics-cf--grey{
 
+    float:none !important;
+
 	color:#545554;
   	padding:25px 30px;
     background-color:#f1f1f1;
     width:60vw !important;
-    margin:auto !important;
+
     border-radius:10px;
-    margin-top:30px;
-    padding-bottom:30px;
-    margin-bottom:20px;
+	 margin:auto !important;
+    margin-top:50px !important;
+   /* border:2px solid red;*/
+
 
 
 }
@@ -175,8 +186,8 @@ body{
      align-items:center;
   /*  border: 2px solid red;*/
     width:70%;
-	margin-top:50px;
-	margin-bottom:50px;
+	margin-top:5px;
+	margin-bottom:10px;
 }
 
 
