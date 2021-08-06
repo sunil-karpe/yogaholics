@@ -3,13 +3,13 @@
     jcr:isCheckedOut="{Boolean}true"
     jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
-    jcr:uuid="2d94fa46-5b31-4f5a-818b-52f37e73b7e7">
+    jcr:uuid="3037d962-e32d-4f30-a91b-6b86c4e5b09a">
     <jcr:content
         cq:name="asset.jpg"
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/asset.jpg"
-        jcr:lastModified="{Date}2021-08-05T19:16:52.018+05:30"
+        jcr:lastModified="{Date}2021-08-05T15:04:17.043+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -38,7 +38,7 @@
             exif:ExifVersion="0221"
             exif:PixelXDimension="{Long}940"
             exif:PixelYDimension="{Long}51"
-            jcr:lastModified="{Date}2021-08-05T19:16:12.546+05:30"
+            jcr:lastModified="{Date}2021-08-05T14:48:11.305+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
