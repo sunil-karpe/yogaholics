@@ -1,4 +1,15 @@
+.carousel-item div h3{
+	color:white !important;
+         text-shadow:2px 2px 8px blue;
+        font-weight:bolder;
 
+    }
+
+    .carousel-caption{
+
+
+	background-color:rgba(0, 0, 0, 0.5);
+}
 
 
 

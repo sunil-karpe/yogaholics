@@ -9,7 +9,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="About Us"
-        jcr:uuid="06272943-88c0-410d-b85d-27f9b9fb965d"
+        jcr:uuid="c45c2d62-4137-4b23-a1f5-de0f160c0dfb"
         sling:resourceType="yogaholics/components/structure/page"
         navTitle="About Us"
         pageTitle="About Us">
