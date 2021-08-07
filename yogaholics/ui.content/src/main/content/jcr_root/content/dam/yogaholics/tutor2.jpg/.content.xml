@@ -9,12 +9,12 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/tutor2.jpg"
-        jcr:lastModified="{Date}2021-08-04T14:02:13.302+05:30"
+        jcr:lastModified="{Date}2021-08-07T15:13:15.266+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2021-07-26T15:12:38.416+05:30"
+            dam:extracted="{Date}2021-08-07T15:13:14.794+05:30"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -24,8 +24,8 @@
             dam:Physicalwidthindpi="{Long}300"
             dam:Physicalwidthininches="{Decimal}1.0233333110809326"
             dam:Progressive="no"
-            dam:sha1="7f0bf31fa33be6ef6c33973c622c42334253766b"
-            dam:size="{Long}53763"
+            dam:sha1="b2f27021ed9bee88af91712a552f97c2562b3199"
+            dam:size="{Long}44408"
             dam:TimeCreated="115540+0000"
             dc:creator="[alvarez]"
             dc:creator_xmpArrayType="rdf:Seq"
@@ -36,7 +36,7 @@
             dc:modified="{Date}2021-07-26T15:13:00.243+05:30"
             exif:ColorSpace="{Long}1"
             exif:DateTimeOriginal="{Date}2021-07-26T11:55:40.000+05:30"
-            jcr:lastModified="{Date}2021-07-27T16:11:49.699+05:30"
+            jcr:lastModified="{Date}2021-08-05T19:16:14.595+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
@@ -69,7 +69,7 @@
             <aem
                 jcr:primaryType="nt:unstructured"
                 count="{Long}1"
-                lastUsed="{Date}2021-08-05T10:19:22.640+05:30"/>
+                lastUsed="{Date}2021-08-05T19:56:58.487+05:30"/>
         </usages>
     </jcr:content>
 </jcr:root>

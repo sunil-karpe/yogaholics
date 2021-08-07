@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
-    <about-us/>
+    <blog/>
     <jcr:content
-        cq:lastModified="{Date}2021-08-04T18:35:53.813+05:30"
+        cq:lastModified="{Date}2021-08-06T13:00:17.423+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
@@ -22,10 +22,11 @@
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/foundation/components/responsivegrid">
+                <heroimage/>
                 <heroimage_181167714
                     jcr:created="{Date}2021-07-23T13:56:57.578+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-29T20:28:08.392+05:30"
+                    jcr:lastModified="{Date}2021-07-26T14:14:04.904+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/heroimage"
@@ -37,94 +38,98 @@
                     title="Yoga , Sanskrit for &quot;yoking&quot; or &quot;union&quot;, is a group of physical, mental, and spiritual practices or disciplines that originated in ancient India. Yoga is one of the six orthodox philosophical schools of Hinduism.">
                     <file/>
                 </heroimage_181167714>
-                <title_1936114814
+                <title_2049184026
                     cq:styleIds="[1627539972835]"
-                    jcr:created="{Date}2021-07-29T19:17:30.070+05:30"
+                    jcr:created="{Date}2021-08-05T15:16:46.696+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-04T18:35:53.808+05:30"
+                    jcr:lastModified="{Date}2021-08-06T12:51:58.112+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Feel the yoga"
+                    jcr:title="Feel the power of Yoga"
                     sling:resourceType="yogaholics/components/content/title"
                     type="h2"/>
-                <card
-                    jcr:created="{Date}2021-07-23T10:53:48.684+05:30"
+                <dynamiccard
+                    jcr:created="{Date}2021-08-06T12:20:58.284+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-26T15:27:31.940+05:30"
+                    jcr:lastModified="{Date}2021-08-06T12:47:57.383+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="yogaholics/components/content/card">
+                    sling:resourceType="yogaholics/components/content/dynamiccard">
                     <cards jcr:primaryType="nt:unstructured">
                         <item0
                             jcr:primaryType="nt:unstructured"
-                            cardtitle="Meditation"
+                            cardtitle="Yoga"
                             desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
-                            pathbr="/content/dam/yogaholics/yoga2.jpg"/>
+                            pathbr="/content/dam/yogaholics/Yoga_Landing.jpg"/>
                         <item1
                             jcr:primaryType="nt:unstructured"
-                            cardtitle="Heading"
+                            cardtitle="Meditation"
                             desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
-                            pathbr="/content/dam/yogaholics/yoga2.jpg"/>
+                            pathbr="/content/dam/yogaholics/Yoga_Landing.jpg"/>
                         <item2
                             jcr:primaryType="nt:unstructured"
-                            cardtitle="Heading"
+                            cardtitle="Mindset"
                             desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
-                            pathbr="/content/dam/yogaholics/yoga2.jpg"/>
+                            pathbr="/content/dam/yogaholics/Yoga_Landing.jpg"/>
                     </cards>
-                </card>
-                <title_403485976
+                </dynamiccard>
+                <title
                     cq:styleIds="[1627539972835]"
-                    jcr:created="{Date}2021-07-29T19:32:11.868+05:30"
+                    jcr:created="{Date}2021-08-06T12:57:09.120+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-29T20:42:19.441+05:30"
+                    jcr:lastModified="{Date}2021-08-06T12:57:28.324+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Our features"
+                    jcr:title="Our top features"
                     sling:resourceType="yogaholics/components/content/title"
                     type="h2"/>
                 <vector
-                    jcr:created="{Date}2021-07-26T15:32:38.999+05:30"
+                    jcr:created="{Date}2021-08-06T12:21:24.361+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-26T17:06:22.565+05:30"
+                    jcr:lastModified="{Date}2021-08-06T12:52:49.985+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/vector">
                     <cards jcr:primaryType="nt:unstructured">
                         <item0
                             jcr:primaryType="nt:unstructured"
-                            desc="No matter where you are in the world, you will not be far away from a YogaFit workshop, training or mind body fitness conference. Online trainings are available."
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
                             iconname="Accessible"
                             pathbr="/content/dam/yogaholics/accessible.png"/>
                         <item1
                             jcr:primaryType="nt:unstructured"
-                            desc="YogaFit is founded in sports science, alignment principles, and safety in the most updated science. It is adaptable for a wide variety of ages, fitness levels, backgrounds and health conditions."
-                            iconname="Versatile"
-                            pathbr="/content/dam/yogaholics/versatile.png"/>
-                        <item2
-                            jcr:primaryType="nt:unstructured"
-                            desc="Our wide variety of one, two, and four-day offerings allow you to design a curriculum that works with your schedule, interests, and budget."
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
                             iconname="Modular"
                             pathbr="/content/dam/yogaholics/modular.png"/>
                     </cards>
                 </vector>
-                <heroimage/>
-                <title
+                <title_713079604
                     cq:styleIds="[1627539972835]"
-                    jcr:created="{Date}2021-07-29T19:10:08.408+05:30"
+                    jcr:created="{Date}2021-08-05T15:17:39.617+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-04T14:15:07.371+05:30"
+                    jcr:lastModified="{Date}2021-08-05T15:24:11.971+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Talk with our tutor"
+                    jcr:title="Talk with tutors"
                     sling:resourceType="yogaholics/components/content/title"
-                    type="h3"/>
+                    type="h2"/>
                 <tutorad
-                    jcr:created="{Date}2021-07-25T12:32:06.259+05:30"
+                    jcr:created="{Date}2021-08-06T12:21:43.594+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-25T12:32:06.259+05:30"
+                    jcr:lastModified="{Date}2021-08-06T12:21:43.594+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/tutorAd"/>
+                <title_1607173491
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-05T15:24:23.757+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-05T15:24:53.409+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="You must watch"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h2"/>
                 <feedback
                     jcr:created="{Date}2021-07-26T17:40:14.840+05:30"
                     jcr:createdBy="admin"
@@ -146,16 +151,20 @@
                     </cards>
                 </feedback>
                 <youtubescroll
-                    jcr:created="{Date}2021-08-04T15:11:42.350+05:30"
+                    jcr:created="{Date}2021-08-06T12:22:05.390+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-04T15:11:42.350+05:30"
+                    jcr:lastModified="{Date}2021-08-06T12:55:24.357+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="yogaholics/components/content/youtubeScroll"/>
+                    sling:resourceType="yogaholics/components/content/youtubeScroll"
+                    text="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text2="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text3="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text4="https://www.youtube.com/embed/v7AYKMP6rOE"/>
             </responsivegrid>
         </root>
     </jcr:content>
     <home/>
     <events/>
-    <blog/>
+    <about-us/>
 </jcr:root>
