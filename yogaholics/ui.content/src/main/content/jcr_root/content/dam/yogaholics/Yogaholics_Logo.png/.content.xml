@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:ns1_2_="http://ns.attribution.com/ads/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="45e74d4b-216e-45ba-8496-6632ce232b17">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="yogaholics/Yogaholics_Logo.png"
+        jcr:lastModified="{Date}2021-08-06T15:09:35.356+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}32"
+            dam:Comments="XML:com.adobe.xmp: &lt;?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>&#xa;&lt;x:xmpmeta xmlns:x='adobe:ns:meta/'>&#xa;&lt;rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>&#xa;&#xa; &lt;rdf:Description rdf:about=''&#xa;  xmlns:Attrib='http://ns.attribution.com/ads/1.0/'>&#xa;  &lt;Attrib:Ads>&#xa;   &lt;rdf:Seq>&#xa;    &lt;rdf:li rdf:parseType='Resource'>&#xa;     &lt;Attrib:Created>2021-08-06&lt;/Attrib:Created>&#xa;     &lt;Attrib:ExtId>ebc473ed-5953-4d95-a311-daea51a9a2df&lt;/Attrib:ExtId>&#xa;     &lt;Attrib:FbId>525265914179580&lt;/Attrib:FbId>&#xa;     &lt;Attrib:TouchType>2&lt;/Attrib:TouchType>&#xa;    &lt;/rdf:li>&#xa;   &lt;/rdf:Seq>&#xa;  &lt;/Attrib:Ads>&#xa; &lt;/rdf:Description>&#xa;&#xa; &lt;rdf:Description rdf:about=''&#xa;  xmlns:dc='http://purl.org/dc/elements/1.1/'>&#xa;  &lt;dc:title>&#xa;   &lt;rdf:Alt>&#xa;    &lt;rdf:li xml:lang='x-default'>Brown and White Modern Icons Yoga Event Logo&lt;/rdf:li>&#xa;   &lt;/rdf:Alt>&#xa;  &lt;/dc:title>&#xa; &lt;/rdf:Description>&#xa;&#xa; &lt;rdf:Description rdf:about=''&#xa;  xmlns:pdf='http://ns.adobe.com/pdf/1.3/'>&#xa;  &lt;pdf:Author>Amit Vikram Tripathi&lt;/pdf:Author>&#xa; &lt;/rdf:Description>&#xa;&#xa; &lt;rdf:Description rdf:about=''&#xa;  xmlns:xmp='http://ns.adobe.com/xap/1.0/'>&#xa;  &lt;xmp:CreatorTool>Canva&lt;/xmp:CreatorTool>&#xa; &lt;/rdf:Description>&#xa;&lt;/rdf:RDF>&#xa;&lt;/x:xmpmeta>&#xa;&lt;?xpacket end='r'?>&#xa;"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}1"
+            dam:Physicalheightindpi="{Long}96"
+            dam:Physicalheightininches="{Decimal}5.2076826095581055"
+            dam:Physicalwidthindpi="{Long}96"
+            dam:Physicalwidthininches="{Decimal}5.2076826095581055"
+            dam:Progressive="no"
+            dc:creator="[Amit Vikram Tripathi]"
+            dc:creator_xmpArrayType="rdf:Seq"
+            dc:format="image/png"
+            dc:title="Brown and White Modern Icons Yoga Event Logo"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}500"
+            tiff:ImageWidth="{Long}500"
+            xmp:CreatorTool="Canva">
+            <ns1_2_:Ads
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    ns1_2_:Created="{Date}2021-08-06T00:00:00.000+05:30"
+                    ns1_2_:ExtId="ebc473ed-5953-4d95-a311-daea51a9a2df"
+                    ns1_2_:FbId="{Long}525265914179580"
+                    ns1_2_:TouchType="{Long}2"
+                    xmpNodeType="xmpStruct"/>
+            </ns1_2_:Ads>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

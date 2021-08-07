@@ -7,7 +7,7 @@
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
-        jcr:uuid="d5a3e4d9-ff4c-48da-840c-4e6d9fcfb1d3"
+        jcr:uuid="359fad47-8caa-4c1e-b843-8b6b6f16af22"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
