@@ -6,12 +6,12 @@
     <jcr:content
         dam:assetState="processed"
         dam:relativePath="yogaholics/yogaEvent3.jpg"
-        jcr:lastModified="{Date}2021-08-07T13:19:15.836+05:30"
+        jcr:lastModified="{Date}2021-08-07T15:13:16.649+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2021-08-07T13:18:54.148+05:30"
+            dam:extracted="{Date}2021-08-07T15:13:16.047+05:30"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
