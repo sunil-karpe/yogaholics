@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
-    jcr:mixinTypes="[mix:referenceable]"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
     jcr:uuid="c8cce462-ac05-43d3-9f1b-855d826a157b">
     <jcr:content
+        cq:name="yogaEvent5.jpg"
+        cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/yogaEvent5.jpg"
-        jcr:lastModified="{Date}2021-08-07T15:12:52.671+05:30"
+        jcr:lastModified="{Date}2021-08-09T10:58:11.166+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -21,11 +24,14 @@
             dam:Physicalwidthindpi="{Long}72"
             dam:Physicalwidthininches="{Decimal}29.0"
             dam:Progressive="no"
-            dam:sha1="b6e5cee04f3d0926b56a4de0b62f3a0541057558"
+            dam:sha1="95e9661ffb11e3526c76fd5d8931b04419147e77"
             dam:size="{Long}597791"
             dc:format="image/jpeg"
+            dc:modified="{Date}2021-08-09T10:58:10.374+05:30"
             exif:ColorSpace="{Long}1"
             exif:DateTimeOriginal="{Date}2021-08-07T13:54:10.000+05:30"
+            jcr:lastModified="{Date}2021-08-09T10:58:10.374+05:30"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
             photoshop:DateCreated="{Date}2021-08-07T13:54:10.000+05:30"

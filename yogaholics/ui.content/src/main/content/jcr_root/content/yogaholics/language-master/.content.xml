@@ -10,7 +10,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Language-master"
-        jcr:uuid="6d42d532-cdd9-4973-bd44-cbd9e189815d"
+        jcr:uuid="25555463-d215-4e89-8156-1b685be385e6"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"

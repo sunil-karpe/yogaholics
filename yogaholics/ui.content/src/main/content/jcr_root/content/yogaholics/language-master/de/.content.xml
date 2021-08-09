@@ -19,7 +19,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Deutsch"
-        jcr:uuid="dca65696-3639-4046-91bc-28c27ead52ee"
+        jcr:uuid="75905388-f77d-460c-899b-c51878b4a200"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
