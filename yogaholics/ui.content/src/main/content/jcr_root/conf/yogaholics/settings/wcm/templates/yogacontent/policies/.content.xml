@@ -2,7 +2,7 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-08-04T16:32:42.521+05:30"
+        cq:lastModified="{Date}2021-08-09T11:46:38.686+05:30"
         cq:lastModifiedBy="admin"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
@@ -18,7 +18,7 @@
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
             <responsivegrid_1750407505
-                cq:policy="wcm/foundation/components/responsivegrid/policy_1628068750077"
+                cq:policy="wcm/foundation/components/responsivegrid/policy_1284502220199000"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping">
                 <yogaholics jcr:primaryType="nt:unstructured">
@@ -37,7 +37,7 @@
                 </yogaholics>
             </responsivegrid_1750407505>
             <responsivegrid_1429685274
-                cq:policy="wcm/foundation/components/responsivegrid/policy_1628068750077"
+                cq:policy="wcm/foundation/components/responsivegrid/policy_1284502220199000"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
         </root>

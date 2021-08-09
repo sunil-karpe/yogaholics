@@ -2,7 +2,7 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-07-29T14:30:43.795+05:30"
+        cq:lastModified="{Date}2021-08-09T13:37:51.931+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
@@ -21,19 +21,129 @@
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/foundation/components/responsivegrid">
-                <contentfragment
-                    cq:styleIds="[1627532710932]"
-                    jcr:created="{Date}2021-07-29T13:14:49.278+05:30"
+                <heroimage
+                    jcr:created="{Date}2021-08-09T12:15:13.439+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-29T14:30:43.791+05:30"
+                    jcr:lastModified="{Date}2021-08-09T12:16:27.700+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="yogaholics/components/content/contentFragment"
-                    displayMode="multi"
-                    fragmentPath="/content/dam/yogaholics/content-fragment/yogablogs"
-                    paragraphScope="all"
-                    text="                    Title                                            HUMANS NEED TREES            &#xa;&#xa;                        Author                                            By Dez Hill            &#xa;&#xa;                        Description                                            &#xa;&#xa;Numerous people in this world have encountered some form of conflict in their life. How these conflicts are dealt with varies from person to person. Many people have traumatic incidents that they endure also, which can cause a disorder called PTSD (post-traumatic stress disorder). The traumatic events that lead to post-traumatic stress disorder are usually so overwhelming, and frightening that they would upset anyone. When your sense of safety and trust are shattered, it’s normal to feel crazy, disconnected, or numb, and most people do.&#xa;&#xa;Let’s explore different ways to deal with PTSD. Self- soothing activities is the most popular way to help keep your emotions under control. If you are unfamiliar with what self-soothing activities are here is a quick summary for you. Self-soothing activities are a source of decreased arousal, pleasurable sensations and calming feelings. They are characterized by: slow, gentle or rhythmical movements; softness in texture, tone and hues; quietness in volume. They include but are not limited to the following: • Calming breathing • Gentle holding and rocking • Calming self-talk • accessing calming sensations: e.g., warm baths and showers, warm drinks, soft textiles (blankets, bed socks, soft toys, hot water bottles), calming music, soft lighting walking, gardening or swimming therapeutic process.&#xa;&#xa;These activities are an incredible way to deal with what symptom’s you may be feeling in that moment; but I want to explore a different route. Let’s think outside the box; trees.&#xa;&#xa;A symbiotic relationship exists between trees and humans.  Humans breathe in oxygen and exhale carbon dioxide, while trees breathe in carbon dioxide and exhale oxygen. There are many similarities between humans and trees. For example, let’s take the American Hardwood tree. These trees are like humans in three distinct and profound ways: Both are mostly water; both have a peak life span of approximately 80 years and both are completely unique. The most important similarity between humans and trees is that each tree, like each human, is unique and beautiful in its own way.&#xa;&#xa;People need trees. They need to see leaves from their windows, to sit in green spaces, and to play in the shade. Trees draw people out from behind walls of brick and glass. Nature restores the mental functioning in the same way that food and water restore bodies.&#xa;&#xa;Man-made environments take away from us, nature gives back. . Forests, streams, rivers, lakes, and oceans demand very little from us, though they’re still engaging, ever changing, and attention-grabbing. The difference between natural and urban landscapes is how they command our attention. While man-made landscapes bombard us with stimulation, their natural counterparts give us the chance to think as much or as little as we’d like, and the opportunity to replenish exhausted mental resource.&#xa;&#xa;Choosing Nature is always the best way to go.&#xa;&#xa;&#xa;&#xa;"
-                    variationName="master"/>
+                    sling:resourceType="yogaholics/components/content/heroimage"
+                    buttonLabel="Explore"
+                    buttonLinkTo="/content/yogaholics/language-master/en/events"
+                    fileReference="/content/dam/yogaholics/yoga1.jpg"
+                    heading="Let's do Yoga "
+                    title="Yoga , Sanskrit for &quot;yoking&quot; or &quot;union&quot;, is a group of physical, mental, and spiritual practices or disciplines that originated in ancient India. Yoga is one of the six orthodox philosophical schools of Hinduism."/>
+                <breadcrumb
+                    jcr:created="{Date}2021-08-09T11:03:59.984+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T11:13:49.340+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/breadcrumb"
+                    hideCurrent="false"
+                    showHidden="false"
+                    startLevel="3"/>
+                <title
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-09T12:16:48.287+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T13:36:25.886+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="Feel the power of Yoga"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h1"/>
+                <dynamiccard
+                    jcr:created="{Date}2021-08-09T12:16:56.567+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T12:20:49.708+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/dynamiccard">
+                    <cards jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            cardtitle="Yogasfgr"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            pathbr="/content/dam/yogaholics/yoga2.jpg"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            cardtitle="dgdfg"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            pathbr="/content/dam/yogaholics/tutor2.jpg"/>
+                        <item2
+                            jcr:primaryType="nt:unstructured"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            pathbr="/content/dam/yogaholics/tutor4.jpg"/>
+                    </cards>
+                </dynamiccard>
+                <title_1032532220
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-09T12:17:11.082+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T12:21:19.739+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="Our top features"
+                    sling:resourceType="yogaholics/components/content/title"/>
+                <vector
+                    jcr:created="{Date}2021-08-09T12:17:25.441+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T12:22:29.998+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/vector">
+                    <cards jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            iconname="Accessible"
+                            pathbr="/content/dam/yogaholics/accessible.png"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            iconname="Modular"
+                            pathbr="/content/dam/yogaholics/modular.png"/>
+                    </cards>
+                </vector>
+                <title_1637490056
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-09T12:17:39.255+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T12:23:43.901+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="Talk with best tutors"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="[h1,h1]"/>
+                <tutorad
+                    jcr:created="{Date}2021-08-09T12:17:47.226+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T12:17:47.226+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/tutorAd"/>
+                <title_998274912
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-09T12:17:52.984+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T13:37:22.746+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="You must watch"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h2"/>
+                <youtubescroll
+                    jcr:created="{Date}2021-08-09T12:17:59.082+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T13:37:51.920+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/youtubeScroll"
+                    text="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text2="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text3="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text4="https://www.youtube.com/embed/v7AYKMP6rOE"/>
             </responsivegrid>
         </root>
     </jcr:content>

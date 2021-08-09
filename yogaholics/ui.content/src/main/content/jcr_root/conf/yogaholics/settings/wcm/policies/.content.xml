@@ -57,6 +57,15 @@
                             jcr:mixinTypes="[cq:ReplicationStatus]"
                             jcr:primaryType="nt:unstructured"/>
                     </policy_173114304284200>
+                    <policy_1284502220199000
+                        jcr:lastModified="{Date}2021-08-09T11:46:38.659+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="contentPolicy"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="[/apps/yogaholics/components/content/breadcrumb,/apps/yogaholics/components/content/card,/apps/yogaholics/components/content/contentFragment,/apps/yogaholics/components/content/image,/apps/yogaholics/components/content/title]">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_1284502220199000>
                 </responsivegrid>
             </components>
         </foundation>

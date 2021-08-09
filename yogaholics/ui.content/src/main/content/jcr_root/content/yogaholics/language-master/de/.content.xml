@@ -4,8 +4,8 @@
     <jcr:content
         cq:cloudserviceconfigs="[cloudconfigs/translation/translationcfg/default_translation]"
         cq:conf=""
-        cq:lastModified="{Date}2021-07-19T18:16:18.713+05:30"
-        cq:lastModifiedBy="translation-job-service"
+        cq:lastModified="{Date}2021-08-09T10:26:18.886+05:30"
+        cq:lastModifiedBy="admin"
         cq:lastTranslationDone="{Date}2021-07-19T18:16:18.714+05:30"
         cq:lastTranslationUpdate="{Date}2021-07-19T18:15:29.915+05:30"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"

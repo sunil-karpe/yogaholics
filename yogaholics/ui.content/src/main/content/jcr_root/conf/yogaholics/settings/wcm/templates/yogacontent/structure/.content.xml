@@ -3,7 +3,7 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:deviceGroups="[/etc/mobile/groups/responsive]"
-        cq:lastModified="{Date}2021-08-04T19:28:38.832+05:30"
+        cq:lastModified="{Date}2021-08-09T11:53:15.942+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogacontent"
         jcr:isCheckedOut="{Boolean}true"
@@ -14,19 +14,27 @@
         <root
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/foundation/components/responsivegrid">
-            <navbar
-                jcr:created="{Date}2021-08-04T14:19:11.349+05:30"
+            <navigation
+                jcr:created="{Date}2021-08-09T10:23:33.493+05:30"
                 jcr:createdBy="admin"
-                jcr:lastModified="{Date}2021-08-04T14:19:11.349+05:30"
+                jcr:lastModified="{Date}2021-08-09T10:24:01.362+05:30"
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="yogaholics/components/content/navbar">
-                <cq:responsive jcr:primaryType="nt:unstructured">
-                    <default
-                        jcr:primaryType="nt:unstructured"
-                        width="12"/>
-                </cq:responsive>
-            </navbar>
+                sling:resourceType="yogaholics/components/content/navigation"
+                collectAllPages="false"
+                navigationRoot="/content/yogaholics/language-master/de"
+                skipNavigationRoot="true"
+                structureDepth="1"/>
+            <breadcrumb
+                jcr:created="{Date}2021-08-09T11:17:07.041+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-09T11:17:48.725+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="yogaholics/components/content/breadcrumb"
+                hideCurrent="false"
+                showHidden="false"
+                startLevel="3"/>
             <responsivegrid_1750407505
                 jcr:created="{Date}2021-08-04T14:20:20.760+05:30"
                 jcr:createdBy="admin"
