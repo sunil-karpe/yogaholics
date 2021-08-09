@@ -3,14 +3,14 @@
     jcr:primaryType="cq:Page">
     <blog/>
     <jcr:content
-        cq:lastModified="{Date}2021-08-06T13:00:17.423+05:30"
+        cq:lastModified="{Date}2021-08-09T14:09:41.345+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="English"
-        jcr:uuid="f81a3280-bbd5-4cad-81fe-558e1896659f"
+        jcr:uuid="b422f1f4-ee0a-4db8-9c08-b97e2a7ef0c8"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
@@ -26,26 +26,23 @@
                 <heroimage_181167714
                     jcr:created="{Date}2021-07-23T13:56:57.578+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-07-26T14:14:04.904+05:30"
+                    jcr:lastModified="{Date}2021-08-09T13:19:20.700+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/heroimage"
-                    buttonLabel="explore"
+                    buttonLabel="Explore"
                     buttonLinkTo="/content/eureka/language-master/en/categories"
-                    fileName="yoga1.jpg"
-                    fileReference="/content/dam/yogaholics/yoga1.jpg"
+                    fileReference="/content/dam/yogaholics/yoga_img/yogini.gif"
                     heading="Let's do Yoga "
-                    title="Yoga , Sanskrit for &quot;yoking&quot; or &quot;union&quot;, is a group of physical, mental, and spiritual practices or disciplines that originated in ancient India. Yoga is one of the six orthodox philosophical schools of Hinduism.">
-                    <file/>
-                </heroimage_181167714>
+                    title="It’s time to roll out your yoga mat and discover the combination of physical and mental exercises that for thousands of years have hooked yoga practitioners around the globe. The beauty of yoga is that you don’t have to be a yogi or yogini to reap the benefits."/>
                 <title_2049184026
                     cq:styleIds="[1627539972835]"
                     jcr:created="{Date}2021-08-05T15:16:46.696+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-06T12:51:58.112+05:30"
+                    jcr:lastModified="{Date}2021-08-09T14:09:41.328+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Feel the power of Yoga"
+                    jcr:title="Feel The Power Of Yoga"
                     sling:resourceType="yogaholics/components/content/title"
                     type="h2"/>
                 <dynamiccard
@@ -77,40 +74,45 @@
                     cq:styleIds="[1627539972835]"
                     jcr:created="{Date}2021-08-06T12:57:09.120+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-06T12:57:28.324+05:30"
+                    jcr:lastModified="{Date}2021-08-09T14:08:44.211+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Our top features"
+                    jcr:title="We Help With"
                     sling:resourceType="yogaholics/components/content/title"
                     type="h2"/>
                 <vector
                     jcr:created="{Date}2021-08-06T12:21:24.361+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-06T12:52:49.985+05:30"
+                    jcr:lastModified="{Date}2021-08-09T14:08:15.546+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/vector">
                     <cards jcr:primaryType="nt:unstructured">
                         <item0
                             jcr:primaryType="nt:unstructured"
-                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
-                            iconname="Accessible"
-                            pathbr="/content/dam/yogaholics/accessible.png"/>
+                            desc="Have you been getting too distracted at your workplace or at home? Are you taking forever to do even the simplest day-to-day tasks? Well, chances are that you are lacking concentration or you may be suffering from concentration issues."
+                            iconname="Focus"
+                            pathbr="/content/dam/yogaholics/yoga_img/focus.PNG"/>
                         <item1
                             jcr:primaryType="nt:unstructured"
-                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
-                            iconname="Modular"
-                            pathbr="/content/dam/yogaholics/modular.png"/>
+                            desc="In recent years, increasing numbers of studies have emerged suggesting that yoga is an effective adjunct therapy for people experiencing anxiety disorders. This guide offers a short introduction to anxiety disorders."
+                            iconname="Anxiety"
+                            pathbr="/content/dam/yogaholics/yoga_img/anxiety.PNG"/>
+                        <item2
+                            jcr:primaryType="nt:unstructured"
+                            desc="We aim to help individuals lift themselves out of the impacts of poor mental health, we seek to ensure that all people especially those with the fewest resources hold a good state of mental health to secure opportunities to succeed in life."
+                            iconname="Depression"
+                            pathbr="/content/dam/yogaholics/yoga_img/Depression.PNG"/>
                     </cards>
                 </vector>
                 <title_713079604
                     cq:styleIds="[1627539972835]"
                     jcr:created="{Date}2021-08-05T15:17:39.617+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-05T15:24:11.971+05:30"
+                    jcr:lastModified="{Date}2021-08-09T14:09:04.397+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Talk with tutors"
+                    jcr:title="Talk With Tutors"
                     sling:resourceType="yogaholics/components/content/title"
                     type="h2"/>
                 <tutorad
@@ -124,10 +126,10 @@
                     cq:styleIds="[1627539972835]"
                     jcr:created="{Date}2021-08-05T15:24:23.757+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-05T15:24:53.409+05:30"
+                    jcr:lastModified="{Date}2021-08-09T14:09:15.742+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="You must watch"
+                    jcr:title="You Must Watch"
                     sling:resourceType="yogaholics/components/content/title"
                     type="h2"/>
                 <feedback

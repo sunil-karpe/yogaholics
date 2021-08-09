@@ -9,7 +9,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Events"
-        jcr:uuid="3ace5722-6ef3-465b-b245-74c7905beb66"
+        jcr:uuid="2d8839a0-a15c-48bb-b0f0-bc8cb9cddb7c"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"

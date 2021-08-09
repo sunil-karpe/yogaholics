@@ -9,12 +9,12 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/tutor4.jpg"
-        jcr:lastModified="{Date}2021-08-07T15:13:18.029+05:30"
+        jcr:lastModified="{Date}2021-08-09T10:57:59.627+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2021-08-07T15:13:17.762+05:30"
+            dam:extracted="{Date}2021-07-27T16:11:50.755+05:30"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -36,7 +36,7 @@
             dc:modified="{Date}2021-07-26T15:11:54.826+05:30"
             exif:ColorSpace="{Long}1"
             exif:DateTimeOriginal="{Date}2021-07-26T12:08:04.000+05:30"
-            jcr:lastModified="{Date}2021-07-29T17:00:23.690+05:30"
+            jcr:lastModified="{Date}2021-08-09T10:57:58.290+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
