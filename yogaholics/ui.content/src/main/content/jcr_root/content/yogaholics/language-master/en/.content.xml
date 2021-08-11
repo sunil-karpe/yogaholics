@@ -4,14 +4,14 @@
     <home/>
     <blog/>
     <jcr:content
-        cq:lastModified="{Date}2021-08-09T14:09:41.345+05:30"
+        cq:lastModified="{Date}2021-08-09T15:14:25.714+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="English"
-        jcr:uuid="b422f1f4-ee0a-4db8-9c08-b97e2a7ef0c8"
+        jcr:uuid="f81a3280-bbd5-4cad-81fe-558e1896659f"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
@@ -35,7 +35,9 @@
                     buttonLinkTo="/content/eureka/language-master/en/categories"
                     fileReference="/content/dam/yogaholics/yoga_img/yogini.gif"
                     heading="Let's do Yoga "
-                    title="It’s time to roll out your yoga mat and discover the combination of physical and mental exercises that for thousands of years have hooked yoga practitioners around the globe. The beauty of yoga is that you don’t have to be a yogi or yogini to reap the benefits."/>
+                    title="It’s time to roll out your yoga mat and discover the combination of physical and mental exercises that for thousands of years have hooked yoga practitioners around the globe. The beauty of yoga is that you don’t have to be a yogi or yogini to reap the benefits.">
+                    <file/>
+                </heroimage_181167714>
                 <title_2049184026
                     cq:styleIds="[1627539972835]"
                     jcr:created="{Date}2021-08-05T15:16:46.696+05:30"
@@ -84,7 +86,7 @@
                 <vector
                     jcr:created="{Date}2021-08-06T12:21:24.361+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-09T14:08:15.546+05:30"
+                    jcr:lastModified="{Date}2021-08-09T15:00:05.229+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/vector">
@@ -110,7 +112,7 @@
                     cq:styleIds="[1627539972835]"
                     jcr:created="{Date}2021-08-05T15:17:39.617+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-09T14:09:04.397+05:30"
+                    jcr:lastModified="{Date}2021-08-09T15:14:25.684+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Talk With Tutors"

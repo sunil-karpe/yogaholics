@@ -2,14 +2,14 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2021-08-07T15:29:52.085+05:30"
+        cq:lastModified="{Date}2021-08-09T14:56:21.951+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Events"
-        jcr:uuid="2d8839a0-a15c-48bb-b0f0-bc8cb9cddb7c"
+        jcr:uuid="3ace5722-6ef3-465b-b245-74c7905beb66"
         sling:resourceType="yogaholics/components/structure/page">
         <root
             jcr:primaryType="nt:unstructured"
@@ -41,22 +41,24 @@
                 <event
                     jcr:created="{Date}2021-08-07T15:24:48.380+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-07T15:25:38.054+05:30"
+                    jcr:lastModified="{Date}2021-08-09T14:55:12.281+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/event"
                     date="{Date}2021-08-09T00:00:00.000+05:30"
+                    desc="Surya Namaskar is a combination of 12 back-to-back Yoga Poses. It is also called Sun Salutation. It is a cardiovascular workout that involves everybody part with stretching. This results in a great impact on our overall health."
                     endtime="{Date}2021-08-07T10:20:35.631+05:30"
                     time="{Date}2021-08-07T08:12:24.772+05:30"
                     title="Surya Namaskar"/>
                 <event_105784284
                     jcr:created="{Date}2021-08-07T15:28:31.926+05:30"
                     jcr:createdBy="admin"
-                    jcr:lastModified="{Date}2021-08-07T15:29:52.079+05:30"
+                    jcr:lastModified="{Date}2021-08-09T14:56:21.943+05:30"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="yogaholics/components/content/event"
                     date="{Date}2021-08-11T00:00:00.000+05:30"
+                    desc="Stress can be defined as any type of change that causes physical, emotional, or psychological strain. Stress is your body's response to anything that requires attention or action."
                     endtime="{Date}2021-08-07T06:15:00.000+05:30"
                     time="{Date}2021-08-07T04:15:11.782+05:30"
                     title="Stress relief"/>

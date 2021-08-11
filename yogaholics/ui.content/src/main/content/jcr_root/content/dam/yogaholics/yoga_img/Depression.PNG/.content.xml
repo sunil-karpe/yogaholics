@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
-    jcr:mixinTypes="[mix:referenceable]"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
     jcr:uuid="379f9490-2d61-4a37-bf2f-3d97a7529301">
     <jcr:content
+        cq:name="Depression.PNG"
+        cq:parentPath="/content/dam/yogaholics/yoga_img"
         dam:assetState="processed"
         dam:relativePath="yogaholics/yoga_img/Depression.PNG"
-        jcr:lastModified="{Date}2021-08-09T14:00:19.869+05:30"
+        jcr:lastModified="{Date}2021-08-09T14:38:08.209+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}32"
+            dam:extracted="{Date}2021-08-09T14:38:03.415+05:30"
             dam:Fileformat="PNG"
             dam:MIMEtype="image/png"
             dam:Numberofimages="{Long}1"
@@ -20,7 +24,12 @@
             dam:Physicalwidthindpi="{Long}96"
             dam:Physicalwidthininches="{Decimal}2.239896059036255"
             dam:Progressive="no"
+            dam:sha1="238f652eefb650b1d3c256e8b36e818c5f38c5fe"
+            dam:size="{Long}3672"
             dc:format="image/png"
+            dc:modified="{Date}2021-08-09T14:38:07.915+05:30"
+            jcr:lastModified="{Date}2021-08-09T14:38:07.914+05:30"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
             tiff:ImageLength="{Long}198"
