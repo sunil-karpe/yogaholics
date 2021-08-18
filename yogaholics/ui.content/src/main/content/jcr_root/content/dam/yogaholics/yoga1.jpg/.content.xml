@@ -9,7 +9,7 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/yoga1.jpg"
-        jcr:lastModified="{Date}2021-08-09T14:38:42.826+05:30"
+        jcr:lastModified="{Date}2021-08-17T19:22:07.579+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -31,7 +31,7 @@
             exif:ColorSpace="{Long}65535"
             exif:PixelXDimension="{Long}3097"
             exif:PixelYDimension="{Long}2065"
-            jcr:lastModified="{Date}2021-08-09T14:38:29.237+05:30"
+            jcr:lastModified="{Date}2021-08-17T19:22:05.051+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"

@@ -64,7 +64,9 @@
                         jcr:title="contentPolicy"
                         sling:resourceType="wcm/core/components/policy/policy"
                         components="[/apps/yogaholics/components/content/breadcrumb,/apps/yogaholics/components/content/card,/apps/yogaholics/components/content/contentFragment,/apps/yogaholics/components/content/image,/apps/yogaholics/components/content/title]">
-                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                        <jcr:content
+                            jcr:mixinTypes="[]"
+                            jcr:primaryType="nt:unstructured"/>
                     </policy_1284502220199000>
                 </responsivegrid>
             </components>
@@ -92,7 +94,9 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="designLayout"
                         sling:resourceType="wcm/core/components/policy/policy">
-                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                        <jcr:content
+                            jcr:mixinTypes="[]"
+                            jcr:primaryType="nt:unstructured"/>
                         <cq:styleGroups jcr:primaryType="nt:unstructured">
                             <item0
                                 cq:styleGroupLabel="Layout"
@@ -120,7 +124,9 @@
                         sling:resourceType="wcm/core/components/policy/policy"
                         allowedTypes="[h1,h2,h3,h4,h5,h6]"
                         type="h1">
-                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                        <jcr:content
+                            jcr:mixinTypes="[]"
+                            jcr:primaryType="nt:unstructured"/>
                         <cq:styleGroups jcr:primaryType="nt:unstructured">
                             <item0
                                 cq:styleGroupLabel="layout"

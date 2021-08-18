@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2021-08-17T19:45:17.533+05:30"
+        cq:lastModifiedBy="translation-job-service"
+        cq:lastTranslationDone="{Date}2021-08-17T19:45:17.533+05:30"
+        cq:lastTranslationUpdate="{Date}2021-08-17T19:42:56.495+05:30"
+        cq:template="/conf/yogaholics/settings/wcm/templates/yogacontent"
+        cq:translationMethod="MACHINE_TRANSLATION"
+        cq:translationProviderCloudConfig="/libs/settings/cloudconfigs/translation/msft-translation/msft_trial"
+        cq:translationProviderName="microsoft"
+        cq:translationSourcePath="/content/yogaholics/language-master/en/blog/yogaForBeginner"
+        cq:translationStatus="READY_FOR_REVIEW"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="शुरुआत के लिए योग"
+        jcr:uuid="d627704d-0853-4781-ab65-413f6b9a937e"
+        sling:resourceType="yogaholics/components/structure/page">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <responsivegrid
+                jcr:created="{Date}2021-08-04T14:18:42.697+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:18:49.966+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+            <responsivegrid_1750407505
+                jcr:created="{Date}2021-08-04T14:20:20.760+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:24:59.667+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <contentfragment
+                    cq:styleIds="[1627532710932]"
+                    jcr:created="{Date}2021-08-05T10:23:08.195+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T10:41:42.639+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/contentFragment"
+                    displayMode="multi"
+                    fragmentPath="/content/dam/yogaholics/content-fragment/yogablogs"
+                    paragraphScope="all"
+                    text="                    शुरुआत के लिए शीर्षक योग            लेखक द्वारा डेज़ हिल            वर्णन                                            इस दुनिया में कई लोगों को अपने जीवन में संघर्ष के कुछ फार्म का सामना करना पड़ा है । इन संघर्षों से कैसे निपटा जाता है, यह व्यक्ति-व्यक्ति में भिन्न होता है । कई लोगों में दर्दनाक घटनाएं होती हैं जो वे भी सहते हैं, जिससे पीटीएसडी (पोस्ट-ट्रॉमेटिक स्ट्रेस डिसऑर्डर) नामक विकार हो सकता है। दर्दनाक घटनाओं है कि पोस्ट करने के लिए नेतृत्व दर्दनाक तनाव विकार आमतौर पर इतना भारी हैं, और भयावह है कि वे किसी को परेशान होगा । जब सुरक्षा और विश्वास की अपनी भावना टूट रहे हैं, यह पागल, काट दिया, या सुन्न महसूस करने के लिए सामांय है, और ज्यादातर लोगों को करते हैं ।आइए पीटीएसडी से निपटने के लिए विभिन्न तरीकों का पता लगाएं। आत्म सुखदायक गतिविधियों में मदद करने के लिए अपनी भावनाओं को नियंत्रण में रखने के लिए सबसे लोकप्रिय तरीका है । यदि आप क्या आत्म सुखदायक गतिविधियों के साथ अपरिचित है यहां आप के लिए एक त्वरित सारांश है । आत्म-सुखदायक गतिविधियां कम उत्तेजना, सुखद संवेदनाओं और शांत भावनाओं का स्रोत हैं। उनकी विशेषता है: धीमी, कोमल या लयबद्ध आंदोलन; बनावट, टोन और रंग में कोमलता; मात्रा में शांति। वे शामिल हैं, लेकिन निम्नलिखित तक ही सीमित नहीं हैं: • शांत श्वास • कोमल होल्डिंग और कमाल • शांत आत्म बात • शांत उत्तेजना तक पहुंचने: जैसे, गर्म स्नान और बारिश, गर्म पेय, शीतल वस्त्र (कंबल, बिस्तर मोजे, शीतल खिलौने, गर्म पानी की बोतलें), शांत संगीत, शीतल प्रकाश घूमना, बागवानी या तैराकी चिकित्सीय प्रक्रिया ।ये गतिविधियां उस पल में आप किस लक्षण को महसूस कर रही हो सकते हैं, इसके साथ निपटने का एक अविश्वसनीय तरीका है; लेकिन मैं एक अलग मार्ग का पता लगाना चाहता हूं। चलो बॉक्स के बाहर लगता है; पेड़।पेड़ों और मनुष्यों के बीच एक सहजीवी संबंध मौजूद है।  मनुष्य ऑक्सीजन में सांस लेते हैं और कार्बन डाइऑक्साइड छोड़ते हैं, जबकि पेड़ कार्बन डाइऑक्साइड में सांस लेते हैं और ऑक्सीजन छोड़ते हैं । इंसानों और पेड़ों में कई समानताएं हैं। उदाहरण के लिए, चलो अमेरिकी दृढ़ लकड़ी के पेड़ लेते हैं। ये पेड़ तीन अलग और गहन तरीकों से मनुष्यों की तरह हैं: दोनों ज्यादातर पानी हैं; दोनों लगभग 80 साल की एक चोटी जीवन काल है और दोनों पूरी तरह से अद्वितीय हैं। मनुष्यों और पेड़ों के बीच सबसे महत्वपूर्ण समानता यह है कि प्रत्येक मानव की तरह प्रत्येक पेड़ अपने तरीके से अद्वितीय और सुंदर है।लोगों को पेड़ों की जरूरत है। उन्हें अपनी खिड़कियों से पत्तियों को देखने, हरे रंग की जगहों में बैठने और छाया में खेलने की आवश्यकता होती है। पेड़ ईंट और कांच की दीवारों के पीछे से लोगों को बाहर खींचते हैं । प्रकृति मानसिक कामकाज को उसी तरह पुनर्स्थापित करती है जैसे भोजन और पानी शरीर को बहाल करते हैं।मानव निर्मित वातावरण हमसे दूर ले जाते हैं, प्रकृति वापस देती है। . वनों, धाराओं, नदियों, झीलों, और महासागरों हम से बहुत कम मांग है, हालांकि वे अभी भी आकर्षक हैं, कभी बदल रहा है, और ध्यान हथियाने । प्राकृतिक और शहरी परिदृश्य के बीच अंतर यह है कि वे हमारे ध्यान कैसे आदेश । जबकि मानव निर्मित परिदृश्य हमें उत्तेजना के साथ बमबारी, उनके प्राकृतिक समकक्षों हमें लगता है कि जितना या के रूप में कम के रूप में हम चाहते हैं, और थक मानसिक संसाधन की भरपाई का अवसर दे ।प्रकृति का चयन हमेशा जाने का सबसे अच्छा तरीका है।"
+                    variationName="master"/>
+            </responsivegrid_1750407505>
+            <responsivegrid_1429685274
+                jcr:created="{Date}2021-08-04T14:20:26.514+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-08-04T14:34:34.494+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid"/>
+        </root>
+    </jcr:content>
+</jcr:root>

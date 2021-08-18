@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:cloudserviceconfigs="[/conf/global/settings/cloudconfigs/translation/translationcfg/default_translation]"
+        cq:conf="/conf/yogaholics"
+        cq:lastModified="{Date}2021-08-17T19:45:13.955+05:30"
+        cq:lastModifiedBy="translation-job-service"
+        cq:lastTranslationDone="{Date}2021-08-17T19:45:13.955+05:30"
+        cq:lastTranslationUpdate="{Date}2021-08-17T19:42:55.870+05:30"
+        cq:template="/conf/yogaholics/settings/wcm/templates/yogaholicstemp"
+        cq:translationMethod="MACHINE_TRANSLATION"
+        cq:translationProject="[/content/projects/yogaholics_hindi/yogaholics_hindi,/content/projects/yogaholics/yogaholics]"
+        cq:translationProviderCloudConfig="/libs/settings/cloudconfigs/translation/msft-translation/msft_trial"
+        cq:translationProviderName="microsoft"
+        cq:translationSourcePath="/content/yogaholics/language-master/en"
+        cq:translationStatus="READY_FOR_REVIEW"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="हिंदी"
+        jcr:uuid="35f098b1-4ba5-4df8-898e-8a78ad359785"
+        sling:resourceType="yogaholics/components/structure/page">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <responsivegrid
+                jcr:created="{Date}2021-07-19T17:27:15.060+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2021-07-19T17:27:28.172+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <heroimage/>
+                <heroimage_181167714
+                    jcr:created="{Date}2021-07-23T13:56:57.578+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T13:19:20.700+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/heroimage"
+                    buttonLabel="पता लगाना"
+                    buttonLinkTo="/content/eureka/language-master/en/categories"
+                    fileReference="/content/dam/yogaholics/yoga_img/yogini.gif"
+                    heading="चलो योग करते हैं "
+                    title="यह अपने योग चटाई बाहर रोल और शारीरिक और मानसिक व्यायाम है कि हजारों साल के लिए दुनिया भर में योग चिकित्सकों झुका है के संयोजन की खोज करने के लिए समय है । योग की खूबसूरती का यह है कि इसका फायदा लेने के लिए आपको योगी या योगिनी नहीं बननी पड़ती।">
+                    <file/>
+                </heroimage_181167714>
+                <title_2049184026
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-05T15:16:46.696+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T14:09:41.328+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="योग की शक्ति महसूस"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h2"/>
+                <dynamiccard
+                    jcr:created="{Date}2021-08-06T12:20:58.284+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-06T12:47:57.383+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/dynamiccard">
+                    <cards jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            cardtitle="योग"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            pathbr="/content/dam/yogaholics/Yoga_Landing.jpg"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            cardtitle="ध्यान"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            pathbr="/content/dam/yogaholics/Yoga_Landing.jpg"/>
+                        <item2
+                            jcr:primaryType="nt:unstructured"
+                            cardtitle="मानसिकता"
+                            desc="The goal of the Yogaholics and all classical yoga practice is to bring about a state of calm clarity, balanced energy, and lightness of body and mind."
+                            pathbr="/content/dam/yogaholics/Yoga_Landing.jpg"/>
+                    </cards>
+                </dynamiccard>
+                <title
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-06T12:57:09.120+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T14:08:44.211+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="हम मदद के साथ"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h2"/>
+                <vector
+                    jcr:created="{Date}2021-08-06T12:21:24.361+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T15:00:05.229+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/vector">
+                    <cards jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            desc="Have you been getting too distracted at your workplace or at home? Are you taking forever to do even the simplest day-to-day tasks? Well, chances are that you are lacking concentration or you may be suffering from concentration issues."
+                            iconname="Focus"
+                            pathbr="/content/dam/yogaholics/yoga_img/focus.PNG"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            desc="In recent years, increasing numbers of studies have emerged suggesting that yoga is an effective adjunct therapy for people experiencing anxiety disorders. This guide offers a short introduction to anxiety disorders."
+                            iconname="Anxiety"
+                            pathbr="/content/dam/yogaholics/yoga_img/anxiety.PNG"/>
+                        <item2
+                            jcr:primaryType="nt:unstructured"
+                            desc="We aim to help individuals lift themselves out of the impacts of poor mental health, we seek to ensure that all people especially those with the fewest resources hold a good state of mental health to secure opportunities to succeed in life."
+                            iconname="Depression"
+                            pathbr="/content/dam/yogaholics/yoga_img/Depression.PNG"/>
+                    </cards>
+                </vector>
+                <title_713079604
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-05T15:17:39.617+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T15:14:25.684+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="ट्यूटर्स के साथ बात करें"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h2"/>
+                <tutorad
+                    jcr:created="{Date}2021-08-06T12:21:43.594+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-06T12:21:43.594+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/tutorAd"/>
+                <title_1607173491
+                    cq:styleIds="[1627539972835]"
+                    jcr:created="{Date}2021-08-05T15:24:23.757+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-09T14:09:15.742+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="आपको देखना चाहिए"
+                    sling:resourceType="yogaholics/components/content/title"
+                    type="h2"/>
+                <feedback
+                    jcr:created="{Date}2021-07-26T17:40:14.840+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-07-26T17:41:01.125+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/feedback">
+                    <cards jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            desc="this is s sbs chcbcb cccnncjhcbbc"
+                            iconname="jane"
+                            pathbr="/content/dam/yogaholics/tutor1.jpg"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            desc="hdnndndhdndn"
+                            iconname="bane"
+                            pathbr="/content/dam/yogaholics/tutor1.jpg"/>
+                    </cards>
+                </feedback>
+                <youtubescroll
+                    jcr:created="{Date}2021-08-06T12:22:05.390+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2021-08-06T12:55:24.357+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="yogaholics/components/content/youtubeScroll"
+                    text="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text2="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text3="https://www.youtube.com/embed/v7AYKMP6rOE"
+                    text4="https://www.youtube.com/embed/v7AYKMP6rOE"/>
+            </responsivegrid>
+        </root>
+    </jcr:content>
+    <home/>
+    <blog/>
+    <events/>
+    <about-us/>
+</jcr:root>

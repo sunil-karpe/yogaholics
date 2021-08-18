@@ -9,7 +9,7 @@
         cq:parentPath="/content/dam/yogaholics"
         dam:assetState="processed"
         dam:relativePath="yogaholics/tutor3.jpg"
-        jcr:lastModified="{Date}2021-08-09T14:38:43.741+05:30"
+        jcr:lastModified="{Date}2021-08-17T19:22:08.760+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
@@ -33,7 +33,7 @@
             dc:modified="{Date}2021-07-26T15:13:02.373+05:30"
             exif:ColorSpace="{Long}1"
             exif:DateTimeOriginal="{Date}2021-07-26T11:56:06.000+05:30"
-            jcr:lastModified="{Date}2021-08-09T14:38:39.982+05:30"
+            jcr:lastModified="{Date}2021-08-17T19:22:07.726+05:30"
             jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
